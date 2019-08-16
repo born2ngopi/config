@@ -1,0 +1,5 @@
+[Error - 1:45:29 AM] Request textDocument/documentSymbol failed.
+Error: Connection got disposed.
+	at Object.dispose (/home/chandra/.vscode/extensions/ms-vscode.cpptools-0.24.0-insiders2/dist/main.js:2556:25)
+	at Object.dispose (/home/chandra/.vscode/extensions/ms-vscode.cpptools-0.24.0-insiders2/dist/main.js:3320:35)
+	at module.exports.stop._onStop.resolveConnection.then.connection.shutdown.then (/home/chandra/.vscode/extensions/ms-vscode.cpptools-0.24.0-insiders2/dist/main.js:5314:28)

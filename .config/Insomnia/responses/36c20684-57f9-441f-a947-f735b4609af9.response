@@ -1,0 +1,1 @@
+{"message":{"message":"error","data":"User.query(...).select(...).roles is not a function"}}

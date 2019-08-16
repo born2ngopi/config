@@ -1,0 +1,151 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/chandra/nodeJs/dev/simpus-backend
+> git status -z -u
+> git show :app/Controller/http/AuthController.js
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- app/Controller/http/
+> git rev-parse authentication
+> git rev-parse --symbolic-full-name authentication@{u}
+fatal: no upstream configured for branch 'authentication'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :config/bodyParser.js
+> git show :config/auth.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authentication
+> git rev-parse --symbolic-full-name authentication@{u}
+fatal: no upstream configured for branch 'authentication'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :database/migrations/1503250034279_user.js
+> git show :database/migrations/1503246434279_role.js
+> git show :database/migrations/1503250034280_token.js
+> git check-ignore -v -z --stdin
+> git show :config/.env
+> git ls-files --stage -- config/
+> git show :.env.example
+> git show :config/.env
+> git ls-files --stage -- config/
+> git show :.env.example
+> git show :config/.env
+> git ls-files --stage -- config/
+> git show :.env.example
+> git show :config/.env
+> git ls-files --stage -- config/
+> git show :.env.example
+> git show :config/.env
+> git ls-files --stage -- config/
+> git show :.env.example
+> git show :config/.env
+> git ls-files --stage -- config/
+> git show :.env.example
+> git show :config/.env
+> git ls-files --stage -- config/
+> git show :.env.example
+> git show :config/.env
+> git ls-files --stage -- config/
+> git show :.env.example
+> git show :config/.env
+> git ls-files --stage -- config/
+> git show :.env.example
+> git show :config/.env
+> git ls-files --stage -- config/
+> git show :.env.example
+> git show :config/.env
+> git ls-files --stage -- config/
+> git show :.env.example
+> git show :config/.env
+> git ls-files --stage -- config/
+> git show :.env.example
+> git show :config/.env
+> git ls-files --stage -- config/
+> git show :.env.example
+> git show :config/.env
+> git ls-files --stage -- config/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authentication
+> git rev-parse --symbolic-full-name authentication@{u}
+fatal: no upstream configured for branch 'authentication'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :.env.example
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authentication
+> git rev-parse --symbolic-full-name authentication@{u}
+fatal: no upstream configured for branch 'authentication'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :.env
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authentication
+> git rev-parse --symbolic-full-name authentication@{u}
+fatal: no upstream configured for branch 'authentication'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authentication
+> git rev-parse --symbolic-full-name authentication@{u}
+fatal: no upstream configured for branch 'authentication'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :config/app.js
+> git show :config/auth.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authentication
+> git rev-parse --symbolic-full-name authentication@{u}
+fatal: no upstream configured for branch 'authentication'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/Controller/http/AuthController.js
+> git ls-files --stage -- app/Controller/http/
+> git show :config/auth.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authentication
+> git rev-parse --symbolic-full-name authentication@{u}
+fatal: no upstream configured for branch 'authentication'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/Controller/http/AuthController.js
+> git ls-files --stage -- app/Controller/http/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authentication
+> git rev-parse --symbolic-full-name authentication@{u}
+fatal: no upstream configured for branch 'authentication'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :start/app.js
+> git show :app/Controller/http/AuthController.js
+> git ls-files --stage -- app/Controller/http/
+> git show :start/routes/authentication.js
+> git show :app/Controller/http/AuthController.js
+> git ls-files --stage -- app/Controller/http/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse authentication
+> git rev-parse --symbolic-full-name authentication@{u}
+fatal: no upstream configured for branch 'authentication'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :database/migrations/1503250034279_user.js
+> git show :.env

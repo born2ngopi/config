@@ -1,0 +1,490 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/chandra/cpp/struktur_data
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :route.h
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :main.cpp
+> git show :route.h
+> git show :main.cpp
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :route.h
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git check-ignore -v -z --stdin
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :main.cpp
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :pelanggan.cpp
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :kasir.cpp
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :barista.cpp
+> git show :kasir.cpp
+> git show :route.h
+> git show :kasir.cpp
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :barista.cpp
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :func..cpp
+> git show :func.cpp
+> git check-ignore -v -z --stdin
+> git ls-files --stage -- ./
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :route.h
+> git show :func.cpp
+> git ls-files --stage -- ./
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :pelanggan.cpp
+> git show :route.h
+> git show :func.cpp
+> git ls-files --stage -- ./
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :config.h
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :main.cpp
+> git show :kasir.cpp
+> git show :config.h
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :main.cpp
+> git show :config.h
+> git status -z -u
+> git show :main.cpp
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :pelanggan.cpp
+> git show :kasir.cpp
+> git show :barista.cpp
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :func.cpp
+> git ls-files --stage -- ./
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :kasir.cpp
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :func.cpp
+> git ls-files --stage -- ./
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :barista.cpp
+> git show :config.h
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :kasir.cpp
+> git show :func.cpp
+> git ls-files --stage -- ./
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :config.h
+> git show :func.cpp
+> git ls-files --stage -- ./
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :barista.cpp
+> git show :kasir.cpp
+> git show :config.h
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :main.cpp
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :route.h
+> git show :func.cpp
+> git ls-files --stage -- ./
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :route.h
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :barista.cpp
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :kasir.cpp
+> git show :func.cpp
+> git ls-files --stage -- ./
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git show :func.cpp
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git ls-files --stage -- ./
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git show :func.cpp
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linuxDev
+> git rev-parse --symbolic-full-name linuxDev@{u}
+> git rev-list --left-right linuxDev...refs/remotes/origin/linuxDev
+> git show :func.cpp
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose

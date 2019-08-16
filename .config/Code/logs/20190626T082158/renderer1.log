@@ -1,0 +1,2 @@
+[2019-06-26 08:25:53.544] [renderer1] [error] Error: Error: ENOENT: no such file or directory, stat '/home/chandra/nodeJs/dev/simpus-backend/.vscode'
+[2019-06-26 08:26:29.906] [renderer1] [error] Error: Error: ENOENT: no such file or directory, stat '/home/chandra/nodeJs/dev/simpus-backend/.vscode'

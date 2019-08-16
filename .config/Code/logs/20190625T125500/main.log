@@ -1,0 +1,8 @@
+[2019-06-25 12:55:01.487] [main] [info] update#setState idle
+[2019-06-25 12:55:31.491] [main] [info] update#setState checking for updates
+[2019-06-25 12:55:31.548] [main] [error] Error: net::ERR_CONNECTION_CLOSED
+[2019-06-25 12:55:31.549] [main] [info] update#setState idle
+[2019-06-25 13:55:31.551] [main] [info] update#setState checking for updates
+[2019-06-25 13:55:34.634] [main] [info] update#setState idle
+[2019-06-25 14:55:32.024] [main] [info] update#setState checking for updates
+[2019-06-25 14:55:34.575] [main] [info] update#setState idle

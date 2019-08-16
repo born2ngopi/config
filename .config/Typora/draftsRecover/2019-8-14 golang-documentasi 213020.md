@@ -1,0 +1,234 @@
+# Go Tutorial
+
+## Apa Itu Go?
+
+go adalah bahasa pemrograman yang dibuat oleh google pada tahun 2007 oleh Robert Griesemer, Rob Pike, and Ken Thompson. Go adalah bahasa static-typing, memiliki sintax yang mirip dengan C. Go juga memiliki banyak sekali standart library sendiri.
+
+### Fitur-fitur dari Go
+
++ dukungan seperti bahasa dinamis, contoh `x:=0`
++ waktu compile yang cepat
++ support concurensi bawaan
++ program Go sederhana, ringkas, dan aman
+
+> tapi ada hal yang sangat aku suka dari go yaitu di bagian error handling ***just kidding :)***.
+>
+> `if err != nill` kalian akan sering melihat kode ini ketika berinstraksi dengan go.
+
+program go disimpan dengan extensi `.go`.
+
+setup workspace yang disakarankan adalah `go/src/github.com/username-github/`
+
+
+
+## Hello World
+
+sebelum kita menyelam lebih dalam, ada baiknya untuk melakukan ritual nenek moyang programer.
+
+silah kan buat file hello.go.
+
+contoh workspace saya `go/src/github.com/needkopi/belajar/hello.go`
+
+lalu ketikan kode berikut
+
+``` go
+package main
+
+import "fmt"
+
+func main(){
+    fmt.Println("hello world");
+}
+```
+
+lalu jalankan file go tersebut dengan perintah `go run main.go` dan lihat apa yang terjadi :).
+
+### Penjelasan Kode Program
+
++ baris pertama dalam bahasa Go adalah pendefinisian nama peket dimana kode ini seharusnya terletak, karena program Go berjalan dalam paket. sebagai contoh kode di atas `package main` berarti kita mendefinisikan nama paket main, dimana main adalah titik awal untuk menjalankan program. kode Golang setidaknya harus memiliki satu package main.
++ baris selanjutnya yaitu `import "fmt"` yaitu perintah preprocessor yang memberitahu compiller untuk memasukkan file yang ada di paket fmt.
++ `func main()` merupakan fungsi utama yang akan di eksekusi pertama kali ketika program dijalankan.
++ baris perikutnya `fmt.Println(...)`, disini paket fmt mengekspor method Println() yang digunakan untuk mencetak pesan pada layar. disetiap pemanggilan method harus di awali dengan hurup kapital.
+
+## Basic sintax
+
+### Token di go
+
+token adalah kata kunci pengidentifikasian, konstanta, string literal, atau simbol.
+
+contoh `fmt.Println("hello world")`
+
+individual token :
+
+``` go
+fmt
+.
+Println
+(
+    "hello world"
+)
+```
+
+## Error Handling
+
+di golang banyak sekali method yang mengembalikan nilai error, bayak sekali yang tidak suka dengan hal ini, *termasuk saya :v*. Biasanya saya menggunakan `defer` untuk mempersingkat kode. 
+
+contoh kode:
+
+``` go
+const {
+    user = "chandra"
+    password = "chandra"
+    dbname = "belajar"
+}
+
+func main(){
+    var err error
+    defer func(){
+        if err != nil{
+            log.Printf("something error : %v",err)
+        }  
+    }()
+    
+    psqlInfo := fmt.Sprintf("user=%s password=%s dbname=%s",
+                           user,password,dbname)
+    db,err := sql.Open("postgres",psqlInfo)
+    if err != nil {return}
+}
+```
+
+# Http ListenAndServe
+
+## basic ListenAndServe
+
+``` go
+package main
+
+import "net/http"
+import "io"
+
+type Another string
+
+func (a Another) httpHandle(w http.ResponseWriter,r *http.Request){
+    io.WriteString(w,"WASSSUP!!")
+}
+
+func main(){
+    var A Another
+    http.ListenAndServe(":8080",A)
+}
+```
+
+method ListenAndServer berada pada paket net/http. method ini membutuhkan dua parameter, yaitu addres/port dan handler. [Handler](https://godoc.org/net/http#Handler) memiliki object serverHTTP yang membutuhkan parameter [ResponseWriter](https://godoc.org/net/http#ResponseWriter) dan pointer [Request](https://godoc.org/net/http#Request). pada contoh di atas, Another memiliki method  httpHandler yang memiliki parameter ResponseWriter dan *Request. method io.WriteString membutuhkan dua parameter yaitu slice []byte dan string, karna http.ResponseWriter memiliki obejct `Write([]byte)(int,err)` yang membutuhkan parameter **slice byte**
+
+
+
+## TCP (Transmision Control Protocol) in Go
+
+### apa itu TCP
+
+tcp(transmision control protocol) adalah standar yang mendefinisikan bagaimana membangun dan memelihara komunikasi data, tcp berkerja dengan internet protocol (IP). tcp adalah conection bertipe protocol yang berarti koneksi dibuat dan dipelihara sampai semua aplikasi selesai melakukan pertukaran data
+
+sumber https://google.com :v.
+
+
+
+### Simple TCP with Go
+
+buat sebuah file go, lalu import beberapa paket dibawah
+
+``` go
+package main
+
+import (
+	"fmt"
+    "net"
+    "log"
+    "bufio"
+    "strings"
+)
+```
+
+
+
+lalu buat main fungsi
+
+``` go
+// import package
+
+func main(){
+    li, err := net.Listen("tcp",":8080")
+    if err != nil{
+        log.Fatalln(err.Error())
+    }
+    for{
+        conn, err := li.Accept()
+        if err != nil{
+            log.Fatalln(err.Error())
+            continue
+        }
+        go handle(conn)
+    }
+}
+```
+
+method net.Listen() membutuhkan dua parameter, yaitu string network(harus berupa "tcp") dan port. method ini mengembalikan dua value yaitu *TCPlistener dan error.
+
+selanjutnya kita menggunakan infinity loop. Method Accept() merukapan method dari TCPlisterner, method ini mengembalikan dua value yaitu Conn dan error lebih tepatnya silahkan lihat dokumentasi [package net](https://godoc.org/net).
+
+selanjutnya membuat fungsi handler
+
+```go
+// func main()
+
+func handle(conn net.Conn){
+    defer conn.Close()
+    
+    request(conn)
+}
+```
+
+fungsi ini hanya digunakan untuk menutup koneksi ketika telah selesai digunakan.
+
+``` go
+// func handle()
+
+func request(conn net.Conn){
+    i := 0
+    scanner := bufio.NewScanner(conn)
+    for scanner.Scan(){
+        ln := scanner.Text()
+        if i == 0{
+            route(conn, ln)
+        }
+        if ln == ""{
+            //break
+        }
+        i++
+    }
+}
+```
+
+method NewScanner berada dalam paket [`bufio`](https://godoc.org/bufio), method ini membutuhkan parameter io.Reader dimana struct Reader berisikan `Read(r []byte) (n int, err error)`, sama halnya dengan net.Conn yang berisikan `Read(b []byte)(n int, err error)`. method ini megembalikan nilai *Scanner. 
+
+scanner.Scan() membaca data token dari *Scanner, mehtod ini mengembalikan nilai false apabilai proses Scan() berhenti, bisa karna program telah selesai atau terjadi error.
+
+scanner.Text() mengubah token []byte menjadi string
+
+variabel i digunaan untuk mencegah runtime out of range
+
+``` go
+//func request
+
+func route(conn net.Conn,s string){
+    m := strings.Fields(s)[0]
+    url := strings.Fields(s)[1]
+    
+    if m == "GET" && url == "/home" {
+        home(conn)
+    }else if m == "get" && url == "/another" {
+        another(conn)
+    }
+}
+```
+

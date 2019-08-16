@@ -1,0 +1,2 @@
+[2019-06-27 18:04:13.077] [renderer1] [error] Error: Error: ENOENT: no such file or directory, stat '/home/chandra/nodeJs/dev/simpus-backend/.vscode'
+[2019-06-27 18:04:21.957] [renderer1] [warning] UNRESPONSIVE extension host, 'yokoe.vscode-postfix-go' took 88% of 602.354ms, saved PROFILE here: '/tmp/exthost-5dc707.cpuprofile' [{"id":"program","total":16603,"percentage":3},{"id":"self","total":53283,"percentage":9},{"id":"yokoe.vscode-postfix-go","total":528918,"percentage":88}]

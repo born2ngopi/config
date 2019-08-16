@@ -1,0 +1,15 @@
+file:///home/chandra/nodeJs/dev/simpus-backend/.env {"mtime":1561634124642,"size":282,"etag":"33fap4irp93","orphaned":false}
+HOST=127.0.0.1
+PORT=8080
+NODE_ENV=development
+APP_NAME=SIMPus Backend
+APP_URL=http://${HOST}:${PORT}
+CACHE_VIEWS=false
+APP_KEY=7XselXsadwffF7T5GWNUNZe3okmGpnSa
+DB_CONNECTION=pg
+DB_HOST=127.0.0.1
+DB_PORT=5432
+DB_USER=chandra
+DB_PASSWORD=chandra
+DB_DATABASE=simpus
+HASH_DRIVER=bcrypt

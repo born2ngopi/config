@@ -1,0 +1,18 @@
+[Print Settings]
+atril-print-setting-page-scale=1
+atril-print-setting-page-autorotate=true
+atril-print-setting-page-size=false
+printer=Print to File
+
+output-file-format=pdf
+
+[Page Setup]
+PPDName=A4
+DisplayName=A4
+Width=210
+Height=297
+MarginTop=6.3499999999999996
+MarginBottom=14.224
+MarginLeft=6.3499999999999996
+MarginRight=6.3499999999999996
+Orientation=portrait

@@ -1,0 +1,142 @@
+[
+	{
+		"name": "TEXT",
+		"value": "Preparing request to http://127.0.0.1:8080/auth/login?username=chandra&password=123&role_id=admin",
+		"timestamp": 1561892282635
+	},
+	{
+		"name": "TEXT",
+		"value": "Using libcurl/7.61.1 OpenSSL/1.1.0h zlib/1.2.11 nghttp2/1.29.0",
+		"timestamp": 1561892282635
+	},
+	{
+		"name": "TEXT",
+		"value": "Current time is 2019-06-30T10:58:02.635Z",
+		"timestamp": 1561892282635
+	},
+	{
+		"name": "TEXT",
+		"value": "Disable timeout",
+		"timestamp": 1561892282635
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable automatic URL encoding",
+		"timestamp": 1561892282635
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable SSL validation",
+		"timestamp": 1561892282635
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable cookie sending with jar of 0 cookies",
+		"timestamp": 1561892282641
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection 2 seems to be dead!\n",
+		"timestamp": 1561892282654
+	},
+	{
+		"name": "TEXT",
+		"value": "Closing connection 2\n",
+		"timestamp": 1561892282654
+	},
+	{
+		"name": "TEXT",
+		"value": "Hostname 127.0.0.1 was found in DNS cache\n",
+		"timestamp": 1561892282654
+	},
+	{
+		"name": "TEXT",
+		"value": "  Trying 127.0.0.1...\n",
+		"timestamp": 1561892282654
+	},
+	{
+		"name": "TEXT",
+		"value": "TCP_NODELAY set\n",
+		"timestamp": 1561892282654
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to 127.0.0.1 (127.0.0.1) port 8080 (#3)\n",
+		"timestamp": 1561892282657
+	},
+	{
+		"name": "TEXT",
+		"value": "Server auth using Basic with user ''\n",
+		"timestamp": 1561892282657
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "POST /auth/login?username=chandra&password=123&role_id=admin HTTP/1.1\r\nHost: 127.0.0.1:8080\r\nAuthorization: Basic Og==\r\nUser-Agent: insomnia/6.5.4\r\nContent-Type: application/json\r\nAccept: */*\r\nContent-Length: 3\r\n\r\n",
+		"timestamp": 1561892282658
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "{\n}",
+		"timestamp": 1561892282658
+	},
+	{
+		"name": "TEXT",
+		"value": "upload completely sent off: 3 out of 3 bytes\n",
+		"timestamp": 1561892282658
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "HTTP/1.1 500 Internal Server Error\r\n",
+		"timestamp": 1561892283026
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Type: text/html; charset=utf-8\r\n",
+		"timestamp": 1561892283026
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Length: 58748\r\n",
+		"timestamp": 1561892283026
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Date: Sun, 30 Jun 2019 10:58:03 GMT\r\n",
+		"timestamp": 1561892283026
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1561892283026
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "\r\n",
+		"timestamp": 1561892283026
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 15.8 KB chunk",
+		"timestamp": 1561892283026
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1561892283026
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1561892283026
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 9.5 KB chunk",
+		"timestamp": 1561892283027
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection #3 to host 127.0.0.1 left intact\n",
+		"timestamp": 1561892283027
+	}
+]

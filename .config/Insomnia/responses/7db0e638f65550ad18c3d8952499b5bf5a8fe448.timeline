@@ -1,0 +1,557 @@
+[
+	{
+		"name": "TEXT",
+		"value": "Preparing request to http://changelog.insomnia.rest/changelog.json",
+		"timestamp": 1561644546165
+	},
+	{
+		"name": "TEXT",
+		"value": "Using libcurl/7.61.1 OpenSSL/1.1.0h zlib/1.2.11 nghttp2/1.29.0",
+		"timestamp": 1561644546165
+	},
+	{
+		"name": "TEXT",
+		"value": "Current time is 2019-06-27T14:09:06.165Z",
+		"timestamp": 1561644546165
+	},
+	{
+		"name": "TEXT",
+		"value": "Disable timeout",
+		"timestamp": 1561644546165
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable automatic URL encoding",
+		"timestamp": 1561644546165
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable SSL validation",
+		"timestamp": 1561644546165
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable cookie sending with jar of 0 cookies",
+		"timestamp": 1561644546174
+	},
+	{
+		"name": "TEXT",
+		"value": "  Trying 104.24.96.191...\n",
+		"timestamp": 1561644546293
+	},
+	{
+		"name": "TEXT",
+		"value": "TCP_NODELAY set\n",
+		"timestamp": 1561644546293
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to changelog.insomnia.rest (104.24.96.191) port 80 (#0)\n",
+		"timestamp": 1561644546297
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "GET /changelog.json HTTP/1.1\r\nHost: changelog.insomnia.rest\r\nUser-Agent: insomnia/6.5.4\r\nusername: chandra\r\npassword: chandra\r\nAccept: */*\r\n\r\n",
+		"timestamp": 1561644546297
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "HTTP/1.1 301 Moved Permanently\r\n",
+		"timestamp": 1561644546436
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Date: Thu, 27 Jun 2019 14:09:06 GMT\r\n",
+		"timestamp": 1561644546436
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Transfer-Encoding: chunked\r\n",
+		"timestamp": 1561644546436
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1561644546436
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Cache-Control: max-age=3600\r\n",
+		"timestamp": 1561644546436
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Expires: Thu, 27 Jun 2019 15:09:06 GMT\r\n",
+		"timestamp": 1561644546436
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Location: https://changelog.insomnia.rest/changelog.json\r\n",
+		"timestamp": 1561644546436
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Server: cloudflare\r\n",
+		"timestamp": 1561644546436
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "CF-RAY: 4ed7ff2ece1da2a6-HKG\r\n",
+		"timestamp": 1561644546436
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "\r\n",
+		"timestamp": 1561644546436
+	},
+	{
+		"name": "TEXT",
+		"value": "Ignoring the response-body\n",
+		"timestamp": 1561644546436
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 5 B chunk",
+		"timestamp": 1561644546436
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection #0 to host changelog.insomnia.rest left intact\n",
+		"timestamp": 1561644546436
+	},
+	{
+		"name": "TEXT",
+		"value": "Issue another request to this URL: 'https://changelog.insomnia.rest/changelog.json'\n",
+		"timestamp": 1561644546436
+	},
+	{
+		"name": "TEXT",
+		"value": "  Trying 104.24.97.191...\n",
+		"timestamp": 1561644546438
+	},
+	{
+		"name": "TEXT",
+		"value": "TCP_NODELAY set\n",
+		"timestamp": 1561644546438
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to changelog.insomnia.rest (104.24.97.191) port 443 (#1)\n",
+		"timestamp": 1561644546502
+	},
+	{
+		"name": "TEXT",
+		"value": "ALPN, offering http/1.1\n",
+		"timestamp": 1561644546565
+	},
+	{
+		"name": "TEXT",
+		"value": "successfully set certificate verify locations:\n",
+		"timestamp": 1561644546590
+	},
+	{
+		"name": "TEXT",
+		"value": "  CAfile: /tmp/insomnia_6.5.4/2017-09-20.pem\n  CApath: none\n",
+		"timestamp": 1561644546590
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.2 (OUT), TLS handshake, Client hello (1):\n",
+		"timestamp": 1561644546591
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.2 (IN), TLS handshake, Server hello (2):\n",
+		"timestamp": 1561644546674
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.2 (IN), TLS handshake, Certificate (11):\n",
+		"timestamp": 1561644546675
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.2 (IN), TLS handshake, Server key exchange (12):\n",
+		"timestamp": 1561644546684
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.2 (IN), TLS handshake, Server finished (14):\n",
+		"timestamp": 1561644546684
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.2 (OUT), TLS handshake, Client key exchange (16):\n",
+		"timestamp": 1561644546685
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):\n",
+		"timestamp": 1561644546685
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.2 (OUT), TLS handshake, Finished (20):\n",
+		"timestamp": 1561644546686
+	},
+	{
+		"name": "TEXT",
+		"value": "TLSv1.2 (IN), TLS handshake, Finished (20):\n",
+		"timestamp": 1561644546749
+	},
+	{
+		"name": "TEXT",
+		"value": "SSL connection using TLSv1.2 / ECDHE-ECDSA-CHACHA20-POLY1305\n",
+		"timestamp": 1561644546749
+	},
+	{
+		"name": "TEXT",
+		"value": "ALPN, server accepted to use http/1.1\n",
+		"timestamp": 1561644546749
+	},
+	{
+		"name": "TEXT",
+		"value": "Server certificate:\n",
+		"timestamp": 1561644546749
+	},
+	{
+		"name": "TEXT",
+		"value": " subject: OU=Domain Control Validated; OU=PositiveSSL Multi-Domain; CN=sni181016.cloudflaressl.com\n",
+		"timestamp": 1561644546749
+	},
+	{
+		"name": "TEXT",
+		"value": " start date: May  2 00:00:00 2019 GMT\n",
+		"timestamp": 1561644546749
+	},
+	{
+		"name": "TEXT",
+		"value": " expire date: Nov  8 23:59:59 2019 GMT\n",
+		"timestamp": 1561644546749
+	},
+	{
+		"name": "TEXT",
+		"value": " subjectAltName: host \"changelog.insomnia.rest\" matched cert's \"*.insomnia.rest\"\n",
+		"timestamp": 1561644546750
+	},
+	{
+		"name": "TEXT",
+		"value": " issuer: C=GB; ST=Greater Manchester; L=Salford; O=COMODO CA Limited; CN=COMODO ECC Domain Validation Secure Server CA 2\n",
+		"timestamp": 1561644546750
+	},
+	{
+		"name": "TEXT",
+		"value": " SSL certificate verify ok.\n",
+		"timestamp": 1561644546750
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "GET /changelog.json HTTP/1.1\r\nHost: changelog.insomnia.rest\r\nUser-Agent: insomnia/6.5.4\r\nusername: chandra\r\npassword: chandra\r\nAccept: */*\r\n\r\n",
+		"timestamp": 1561644546750
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "HTTP/1.1 200 OK\r\n",
+		"timestamp": 1561644547521
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Date: Thu, 27 Jun 2019 14:09:07 GMT\r\n",
+		"timestamp": 1561644547521
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Type: application/json\r\n",
+		"timestamp": 1561644547521
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Transfer-Encoding: chunked\r\n",
+		"timestamp": 1561644547521
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1561644547521
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Set-Cookie: __cfduid=d4af66d84e8957c2be2b175455d43d55c1561644546; expires=Fri, 26-Jun-20 14:09:06 GMT; path=/; domain=.insomnia.rest; HttpOnly; Secure\r\n",
+		"timestamp": 1561644547521
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Cache-Control: public, max-age=7200\r\n",
+		"timestamp": 1561644547521
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Etag: W/\"ccf01754bd18b5b89ecc32a1e3ba8067-ssl-df\"\r\n",
+		"timestamp": 1561644547521
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Vary: Accept-Encoding\r\n",
+		"timestamp": 1561644547522
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "X-NF-Request-ID: 35ff2e2a-236e-4c1e-820a-fdd65670f92f-14087924\r\n",
+		"timestamp": 1561644547522
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "CF-Cache-Status: MISS\r\n",
+		"timestamp": 1561644547522
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Expires: Thu, 27 Jun 2019 16:09:07 GMT\r\n",
+		"timestamp": 1561644547523
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Expect-CT: max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"\r\n",
+		"timestamp": 1561644547523
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Server: cloudflare\r\n",
+		"timestamp": 1561644547523
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "CF-RAY: 4ed7ff313dd033a7-HKG\r\n",
+		"timestamp": 1561644547523
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "\r\n",
+		"timestamp": 1561644547523
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 689 B chunk",
+		"timestamp": 1561644547523
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547526
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547530
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547531
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547531
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547532
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547534
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547534
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547534
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547534
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547535
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547535
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547535
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547536
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547537
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547537
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547538
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547539
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547540
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547540
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547541
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547541
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547541
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1283 B chunk",
+		"timestamp": 1561644547541
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547542
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547542
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547543
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547543
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547544
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547586
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547586
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547587
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547588
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547588
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547588
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547590
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547591
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547593
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547595
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547598
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 1369 B chunk",
+		"timestamp": 1561644547600
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 4 KB chunk",
+		"timestamp": 1561644547604
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 5 B chunk",
+		"timestamp": 1561644547604
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection #1 to host changelog.insomnia.rest left intact\n",
+		"timestamp": 1561644547604
+	},
+	{
+		"name": "TEXT",
+		"value": "Saved 1 cookie",
+		"timestamp": 1561644547628
+	}
+]

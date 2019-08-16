@@ -1,0 +1,32 @@
+[2019-07-25 19:36:36.198] [sharedprocess] [info] main {"machineId":"82e35773826176e235739afe9d84addbb3e4b468c972eae40a69b8a5bf0bc0e1"}
+[2019-07-25 19:37:16.253] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-07-25 19:37:27.499] [sharedprocess] [info] Installing extension: ms-azuretools.vscode-docker
+[2019-07-25 19:37:27.501] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2019-07-25 19:37:27.501] [sharedprocess] [info] Installing extension: ms-vscode.go
+[2019-07-25 19:37:27.502] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2019-07-25 19:37:30.528] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /tmp/9a113b71-7df7-43ed-aea5-65a5d53ebb50
+[2019-07-25 19:37:32.287] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /tmp/9be4d4d8-77ca-4fb2-b7b1-8927116a5c84
+[2019-07-25 19:37:35.459] [sharedprocess] [info] Extracted extension to /home/chandra/.vscode/extensions/.ms-vscode.cpptools-0.24.1: ms-vscode.cpptools
+[2019-07-25 19:37:35.916] [sharedprocess] [info] Renamed to /home/chandra/.vscode/extensions/ms-vscode.cpptools-0.24.1
+[2019-07-25 19:37:35.932] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2019-07-25 19:37:35.983] [sharedprocess] [info] Downloaded extension: ms-vscode.go /tmp/494e493b-8f19-4b6f-841b-76e0382483ba
+[2019-07-25 19:37:37.690] [sharedprocess] [info] Downloaded extension: ms-azuretools.vscode-docker /tmp/5bbb3453-8f1d-42d6-a31f-23ea398ece45
+[2019-07-25 19:37:37.753] [sharedprocess] [info] Extracted extension to /home/chandra/.vscode/extensions/.pkief.material-icon-theme-3.8.1: pkief.material-icon-theme
+[2019-07-25 19:37:37.754] [sharedprocess] [info] Renamed to /home/chandra/.vscode/extensions/pkief.material-icon-theme-3.8.1
+[2019-07-25 19:37:37.764] [sharedprocess] [info] Installation completed. pkief.material-icon-theme
+[2019-07-25 19:37:39.012] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools
+[2019-07-25 19:37:40.052] [sharedprocess] [info] Extensions installed successfully: pkief.material-icon-theme
+[2019-07-25 19:37:42.148] [sharedprocess] [info] Extracted extension to /home/chandra/.vscode/extensions/.ms-azuretools.vscode-docker-0.7.0: ms-azuretools.vscode-docker
+[2019-07-25 19:37:42.149] [sharedprocess] [info] Renamed to /home/chandra/.vscode/extensions/ms-azuretools.vscode-docker-0.7.0
+[2019-07-25 19:37:42.158] [sharedprocess] [info] Installation completed. ms-azuretools.vscode-docker
+[2019-07-25 19:37:42.385] [sharedprocess] [info] Extracted extension to /home/chandra/.vscode/extensions/.ms-vscode.go-0.11.4: ms-vscode.go
+[2019-07-25 19:37:42.385] [sharedprocess] [info] Renamed to /home/chandra/.vscode/extensions/ms-vscode.go-0.11.4
+[2019-07-25 19:37:42.397] [sharedprocess] [info] Installation completed. ms-vscode.go
+[2019-07-25 19:37:46.209] [sharedprocess] [info] Extensions installed successfully: ms-vscode.go
+[2019-07-25 19:37:50.233] [sharedprocess] [info] Extensions installed successfully: ms-azuretools.vscode-docker
+[2019-07-25 19:38:51.019] [sharedprocess] [info] Deleted from disk ms-vscode.cpptools /home/chandra/.vscode/extensions/ms-vscode.cpptools-0.24.1
+[2019-07-25 19:38:51.019] [sharedprocess] [info] Installing the extension: ms-vscode.cpptools
+[2019-07-25 19:39:53.357] [sharedprocess] [info] Extracted extension to /home/chandra/.vscode/extensions/.ms-vscode.cpptools-0.24.1: ms-vscode.cpptools
+[2019-07-25 19:39:53.402] [sharedprocess] [info] Renamed to /home/chandra/.vscode/extensions/ms-vscode.cpptools-0.24.1
+[2019-07-25 19:39:53.856] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2019-07-25 19:39:54.296] [sharedprocess] [info] Successfully installed the extension: ms-vscode.cpptools

@@ -1,0 +1,44 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+> git config --get commit.template
+Open repository: /home/chandra/nodeJs/simpus-backend
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse usermanagement
+> git rev-parse --symbolic-full-name usermanagement@{u}
+> git rev-list --left-right usermanagement...refs/remotes/origin/usermanagement
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :app/Controllers/Http/AuthController.js
+> git check-ignore -v -z --stdin
+> git show :app/Controllers/Http/AuthController.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse usermanagement
+> git rev-parse --symbolic-full-name usermanagement@{u}
+> git rev-list --left-right usermanagement...refs/remotes/origin/usermanagement
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :start/routes/authentication.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse usermanagement
+> git rev-parse --symbolic-full-name usermanagement@{u}
+> git rev-list --left-right usermanagement...refs/remotes/origin/usermanagement
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :app/Controllers/Http/AuthController.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse usermanagement
+> git rev-parse --symbolic-full-name usermanagement@{u}
+> git rev-list --left-right usermanagement...refs/remotes/origin/usermanagement
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose

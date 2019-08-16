@@ -1,0 +1,118 @@
+[2019-06-27 01:45:06.826] [sharedprocess] [info] main {"machineId":"82e35773826176e235739afe9d84addbb3e4b468c972eae40a69b8a5bf0bc0e1"}
+[2019-06-27 01:45:08.103] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-27 01:45:08.675] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:45:11.720] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-27 01:45:11.724] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-27 01:45:11.836] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:45:11.852] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:45:12.099] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-27 01:45:12.238] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:45:13.676] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-27 01:45:21.082] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-27 01:45:21.156] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:45:21.310] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-27 01:45:21.501] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:45:34.044] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-27 01:45:34.135] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:45:34.335] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-27 01:45:34.626] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:45:34.680] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-27 01:45:34.894] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:45:35.119] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-27 01:45:35.328] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:45:37.863] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-27 01:45:46.701] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-06-27 01:46:06.420] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-27 01:46:06.422] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-27 01:46:06.428] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-27 01:46:06.436] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-27 01:46:07.497] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:46:07.509] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:46:07.522] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:46:07.634] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-27 01:46:07.998] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-27 01:46:08.087] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-27 01:46:08.146] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:46:08.212] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:46:08.233] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:47:05.062] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-27 01:47:05.067] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-27 01:47:05.074] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-27 01:47:05.476] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:47:05.492] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:47:05.508] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:47:05.778] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-27 01:47:05.790] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-27 01:47:05.939] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-27 01:47:06.054] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:47:06.066] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:47:06.115] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:48:38.016] [sharedprocess] [info] Installing extension: agauniyal.cpp-snippets
+[2019-06-27 01:48:38.047] [sharedprocess] [info] Scanned user extensions: 10
+[2019-06-27 01:48:39.022] [sharedprocess] [info] Downloaded extension: agauniyal.cpp-snippets /tmp/c6e3c5c1-7e42-41df-bc2e-e10be688435a
+[2019-06-27 01:48:39.197] [sharedprocess] [info] Extracted extension to /home/chandra/.vscode/extensions/.agauniyal.cpp-snippets-1.0.1: agauniyal.cpp-snippets
+[2019-06-27 01:48:39.199] [sharedprocess] [info] Renamed to /home/chandra/.vscode/extensions/agauniyal.cpp-snippets-1.0.1
+[2019-06-27 01:48:39.201] [sharedprocess] [info] Installation completed. agauniyal.cpp-snippets
+[2019-06-27 01:48:39.273] [sharedprocess] [info] Extensions installed successfully: agauniyal.cpp-snippets
+[2019-06-27 01:48:53.897] [sharedprocess] [info] Scanned user extensions: 11
+[2019-06-27 01:48:53.905] [sharedprocess] [info] Scanned user extensions: 11
+[2019-06-27 01:48:53.915] [sharedprocess] [info] Scanned user extensions: 11
+[2019-06-27 01:48:54.201] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:48:54.217] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:48:54.232] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:48:54.363] [sharedprocess] [info] Scanned user extensions: 11
+[2019-06-27 01:48:54.514] [sharedprocess] [info] Scanned user extensions: 11
+[2019-06-27 01:48:54.624] [sharedprocess] [info] Scanned user extensions: 11
+[2019-06-27 01:48:54.644] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:48:54.737] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:48:54.773] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:49:30.380] [sharedprocess] [info] Installing extension: abusaidm.html-snippets
+[2019-06-27 01:49:30.610] [sharedprocess] [info] Scanned user extensions: 11
+[2019-06-27 01:49:30.984] [sharedprocess] [info] Downloaded extension: abusaidm.html-snippets /tmp/5dd68928-13a8-4368-9bbf-d3a3e16df95e
+[2019-06-27 01:49:31.068] [sharedprocess] [info] Extracted extension to /home/chandra/.vscode/extensions/.abusaidm.html-snippets-0.2.1: abusaidm.html-snippets
+[2019-06-27 01:49:31.069] [sharedprocess] [info] Renamed to /home/chandra/.vscode/extensions/abusaidm.html-snippets-0.2.1
+[2019-06-27 01:49:31.071] [sharedprocess] [info] Installation completed. abusaidm.html-snippets
+[2019-06-27 01:49:31.135] [sharedprocess] [info] Extensions installed successfully: abusaidm.html-snippets
+[2019-06-27 01:49:35.903] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-27 01:49:35.907] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-27 01:49:35.910] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-27 01:49:36.270] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:49:36.283] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:49:36.300] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:49:36.454] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-27 01:49:36.621] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-27 01:49:36.683] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-27 01:49:36.744] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:49:36.878] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:49:36.902] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:50:31.673] [sharedprocess] [info] Installing extension: clinyong.vscode-css-modules
+[2019-06-27 01:50:31.734] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-27 01:50:36.165] [sharedprocess] [info] Downloaded extension: clinyong.vscode-css-modules /tmp/547691d4-b5d3-4c7b-9043-a6b0c2a81bd6
+[2019-06-27 01:50:38.011] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-27 01:50:53.846] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-27 01:50:53.878] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-27 01:50:53.889] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-27 01:50:54.263] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:50:54.281] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:50:54.297] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:50:54.495] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-27 01:50:54.630] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:50:54.671] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-27 01:50:54.803] [sharedprocess] [info] Scanned user extensions: 12
+[2019-06-27 01:50:54.962] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:50:55.045] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-27 01:51:01.168] [sharedprocess] [info] Extracted extension to /home/chandra/.vscode/extensions/.clinyong.vscode-css-modules-0.2.3: clinyong.vscode-css-modules
+[2019-06-27 01:51:01.169] [sharedprocess] [info] Renamed to /home/chandra/.vscode/extensions/clinyong.vscode-css-modules-0.2.3
+[2019-06-27 01:51:01.175] [sharedprocess] [info] Installation completed. clinyong.vscode-css-modules
+[2019-06-27 01:51:01.240] [sharedprocess] [info] Extensions installed successfully: clinyong.vscode-css-modules
+[2019-06-27 01:55:38.444] [sharedprocess] [info] Scanned user extensions: 13
+[2019-06-27 02:00:42.471] [sharedprocess] [info] Scanned user extensions: 13
+[2019-06-27 02:05:44.192] [sharedprocess] [info] Scanned user extensions: 13
+[2019-06-27 02:10:45.574] [sharedprocess] [info] Scanned user extensions: 13
+[2019-06-27 02:15:45.906] [sharedprocess] [info] Scanned user extensions: 13
+[2019-06-27 02:20:47.331] [sharedprocess] [info] Scanned user extensions: 13
+[2019-06-27 02:25:47.628] [sharedprocess] [info] Scanned user extensions: 13
+[2019-06-27 02:30:48.257] [sharedprocess] [info] Scanned user extensions: 13
+[2019-06-27 02:35:48.608] [sharedprocess] [info] Scanned user extensions: 13
+[2019-06-27 02:40:50.520] [sharedprocess] [info] Scanned user extensions: 13
+[2019-06-27 02:45:50.614] [sharedprocess] [info] Scanned user extensions: 13

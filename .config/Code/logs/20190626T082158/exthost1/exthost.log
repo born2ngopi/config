@@ -1,0 +1,38 @@
+[2019-06-26 08:22:21.703] [exthost] [info] extension host started
+[2019-06-26 08:22:22.125] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-06-26 08:22:22.126] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-06-26 08:22:22.272] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-06-26 08:22:22.272] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-06-26 08:22:22.364] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-06-26 08:22:22.364] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-06-26 08:22:22.798] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-06-26 08:22:22.798] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-06-26 08:22:22.926] [exthost] [info] ExtensionService#_doActivateExtension gorbenko.adonis-js-autocomplete {"startup":true,"activationEvent":"*"}
+[2019-06-26 08:22:22.927] [exthost] [info] ExtensionService#loadCommonJSModule /home/chandra/.vscode/extensions/gorbenko.adonis-js-autocomplete-0.0.1/src/extension
+[2019-06-26 08:22:23.036] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2019-06-26 08:22:23.036] [exthost] [info] ExtensionService#loadCommonJSModule /home/chandra/.vscode/extensions/pkief.material-icon-theme-3.8.0/dist/extension
+[2019-06-26 08:22:23.141] [exthost] [info] ExtensionService#_doActivateExtension yokoe.vscode-postfix-go {"startup":true,"activationEvent":"*"}
+[2019-06-26 08:22:23.141] [exthost] [info] ExtensionService#loadCommonJSModule /home/chandra/.vscode/extensions/yokoe.vscode-postfix-go-0.0.12/out/src/extension
+[2019-06-26 08:22:23.515] [exthost] [info] eager extensions activated
+[2019-06-26 08:25:52.625] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2019-06-26 08:25:52.625] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-06-26 08:26:43.472] [exthost] [info] extension host started
+[2019-06-26 08:26:44.620] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2019-06-26 08:26:44.620] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript-language-features/dist/extension
+[2019-06-26 08:26:45.116] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-06-26 08:26:45.116] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-06-26 08:26:45.185] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-06-26 08:26:45.185] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-06-26 08:26:45.252] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-06-26 08:26:45.252] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-06-26 08:26:45.709] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-06-26 08:26:45.709] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-06-26 08:26:45.760] [exthost] [info] ExtensionService#_doActivateExtension gorbenko.adonis-js-autocomplete {"startup":true,"activationEvent":"*"}
+[2019-06-26 08:26:45.760] [exthost] [info] ExtensionService#loadCommonJSModule /home/chandra/.vscode/extensions/gorbenko.adonis-js-autocomplete-0.0.1/src/extension
+[2019-06-26 08:26:45.837] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2019-06-26 08:26:45.837] [exthost] [info] ExtensionService#loadCommonJSModule /home/chandra/.vscode/extensions/pkief.material-icon-theme-3.8.0/dist/extension
+[2019-06-26 08:26:45.898] [exthost] [info] ExtensionService#_doActivateExtension yokoe.vscode-postfix-go {"startup":true,"activationEvent":"*"}
+[2019-06-26 08:26:45.898] [exthost] [info] ExtensionService#loadCommonJSModule /home/chandra/.vscode/extensions/yokoe.vscode-postfix-go-0.0.12/out/src/extension
+[2019-06-26 08:26:46.122] [exthost] [info] eager extensions activated
+[2019-06-26 08:27:26.328] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2019-06-26 08:27:26.329] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/dist/extension

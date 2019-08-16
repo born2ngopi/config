@@ -1,0 +1,122 @@
+[
+	{
+		"name": "TEXT",
+		"value": "Preparing request to http://127.0.0.1:8080/auth/login",
+		"timestamp": 1561734368965
+	},
+	{
+		"name": "TEXT",
+		"value": "Using libcurl/7.61.1 OpenSSL/1.1.0h zlib/1.2.11 nghttp2/1.29.0",
+		"timestamp": 1561734368965
+	},
+	{
+		"name": "TEXT",
+		"value": "Current time is 2019-06-28T15:06:08.965Z",
+		"timestamp": 1561734368965
+	},
+	{
+		"name": "TEXT",
+		"value": "Disable timeout",
+		"timestamp": 1561734368965
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable automatic URL encoding",
+		"timestamp": 1561734368965
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable SSL validation",
+		"timestamp": 1561734368965
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable cookie sending with jar of 0 cookies",
+		"timestamp": 1561734368976
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection 9 seems to be dead!\n",
+		"timestamp": 1561734368989
+	},
+	{
+		"name": "TEXT",
+		"value": "Closing connection 9\n",
+		"timestamp": 1561734368989
+	},
+	{
+		"name": "TEXT",
+		"value": "  Trying 127.0.0.1...\n",
+		"timestamp": 1561734368989
+	},
+	{
+		"name": "TEXT",
+		"value": "TCP_NODELAY set\n",
+		"timestamp": 1561734368989
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to 127.0.0.1 (127.0.0.1) port 8080 (#10)\n",
+		"timestamp": 1561734368989
+	},
+	{
+		"name": "TEXT",
+		"value": "Server auth using Basic with user 'chandra'\n",
+		"timestamp": 1561734368989
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "POST /auth/login HTTP/1.1\r\nHost: 127.0.0.1:8080\r\nAuthorization: Basic Y2hhbmRyYToxMjM=\r\nUser-Agent: insomnia/6.5.4\r\nContent-Type: application/json\r\nAccept: */*\r\nContent-Length: 3\r\n\r\n",
+		"timestamp": 1561734368989
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "{\n}",
+		"timestamp": 1561734368989
+	},
+	{
+		"name": "TEXT",
+		"value": "upload completely sent off: 3 out of 3 bytes\n",
+		"timestamp": 1561734368989
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "HTTP/1.1 401 Unauthorized\r\n",
+		"timestamp": 1561734369962
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Type: application/json; charset=utf-8\r\n",
+		"timestamp": 1561734369963
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Length: 74\r\n",
+		"timestamp": 1561734369963
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Date: Fri, 28 Jun 2019 15:06:09 GMT\r\n",
+		"timestamp": 1561734369963
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1561734369963
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "\r\n",
+		"timestamp": 1561734369963
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 74 B chunk",
+		"timestamp": 1561734369963
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection #10 to host 127.0.0.1 left intact\n",
+		"timestamp": 1561734369963
+	}
+]

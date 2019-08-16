@@ -1,0 +1,31 @@
+[Default Applications]
+x-scheme-handler/tg=telegramdesktop.desktop
+text/x-arduino=arduino-arduinoide.desktop
+
+[Added Associations]
+image/png=ristretto.desktop;
+application/x-shellscript=mousepad.desktop;
+audio/mpeg=org.xfce.Parole.desktop;
+application/pdf=atril.desktop;
+font/otf=org.gnome.font-viewer.desktop;
+font/ttf=org.gnome.font-viewer.desktop;
+application/x-mswinurl=exo-file-manager.desktop;
+image/jpeg=ristretto.desktop;
+video/x-matroska=org.xfce.Parole.desktop;
+text/plain=mousepad.desktop;
+application/zip=engrampa.desktop;
+video/mp4=org.xfce.Parole.desktop;
+application/x-ms-dos-executable=wine.desktop;engrampa.desktop;
+application/vnd.rar=engrampa.desktop;
+application/vnd.ms-powerpoint=firefox.desktop;
+application/x-partial-download=exo-file-manager.desktop;
+application/vnd.oasis.opendocument.text=libreoffice-writer.desktop;
+application/vnd.openxmlformats-officedocument.wordprocessingml.document=libreoffice-writer.desktop;
+application/x-wine-extension-pdsprj=wine-extension-pdsprj.desktop;
+application/msword=libreoffice-writer.desktop;
+text/html=mousepad.desktop;firefox.desktop;exo-web-browser.desktop;
+application/x-ruby=vim.desktop;wine-extension-txt.desktop;
+text/x-c++src=mousepad.desktop;wine-extension-txt.desktop;
+application/javascript=mousepad.desktop;
+text/markdown=typora.desktop;
+text/x-chdr=mousepad.desktop;

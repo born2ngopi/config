@@ -1,0 +1,132 @@
+[
+	{
+		"name": "TEXT",
+		"value": "Preparing request to http://127.0.0.1:8080/?username=%22chandra&password=chandra",
+		"timestamp": 1561644752104
+	},
+	{
+		"name": "TEXT",
+		"value": "Using libcurl/7.61.1 OpenSSL/1.1.0h zlib/1.2.11 nghttp2/1.29.0",
+		"timestamp": 1561644752104
+	},
+	{
+		"name": "TEXT",
+		"value": "Current time is 2019-06-27T14:12:32.104Z",
+		"timestamp": 1561644752104
+	},
+	{
+		"name": "TEXT",
+		"value": "Disable timeout",
+		"timestamp": 1561644752104
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable automatic URL encoding",
+		"timestamp": 1561644752104
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable SSL validation",
+		"timestamp": 1561644752104
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable cookie sending with jar of 1 cookie",
+		"timestamp": 1561644752113
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection 3 seems to be dead!\n",
+		"timestamp": 1561644752129
+	},
+	{
+		"name": "TEXT",
+		"value": "Closing connection 3\n",
+		"timestamp": 1561644752129
+	},
+	{
+		"name": "TEXT",
+		"value": "  Trying 127.0.0.1...\n",
+		"timestamp": 1561644752129
+	},
+	{
+		"name": "TEXT",
+		"value": "TCP_NODELAY set\n",
+		"timestamp": 1561644752129
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to 127.0.0.1 (127.0.0.1) port 8080 (#4)\n",
+		"timestamp": 1561644752129
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "POST /?username=%22chandra&password=chandra HTTP/1.1\r\nHost: 127.0.0.1:8080\r\nUser-Agent: insomnia/6.5.4\r\nContent-Type: application/json\r\nusername: chandra\r\npassword: chandra\r\nAccept: */*\r\nContent-Length: 0\r\n\r\n",
+		"timestamp": 1561644752130
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "HTTP/1.1 404 Not Found\r\n",
+		"timestamp": 1561644752151
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Type: text/html; charset=utf-8\r\n",
+		"timestamp": 1561644752152
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Length: 60825\r\n",
+		"timestamp": 1561644752152
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Date: Thu, 27 Jun 2019 14:12:32 GMT\r\n",
+		"timestamp": 1561644752152
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1561644752152
+	},
+	{
+		"name": "TEXT",
+		"value": "HTTP error before end of send, stop sending\n",
+		"timestamp": 1561644752152
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "\r\n",
+		"timestamp": 1561644752152
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 15.9 KB chunk",
+		"timestamp": 1561644752152
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 5.4 KB chunk",
+		"timestamp": 1561644752153
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1561644752153
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1561644752154
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 6.2 KB chunk",
+		"timestamp": 1561644752154
+	},
+	{
+		"name": "TEXT",
+		"value": "Closing connection 4\n",
+		"timestamp": 1561644752154
+	}
+]

@@ -1,0 +1,34 @@
+[2019-06-26 23:58:45.541] [exthost] [info] extension host started
+[2019-06-26 23:58:46.113] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-06-26 23:58:46.113] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-06-26 23:58:46.705] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-06-26 23:58:46.705] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-06-26 23:58:46.880] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-06-26 23:58:46.880] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-06-26 23:58:47.508] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-06-26 23:58:47.508] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-06-26 23:58:47.622] [exthost] [info] ExtensionService#_doActivateExtension gorbenko.adonis-js-autocomplete {"startup":true,"activationEvent":"*"}
+[2019-06-26 23:58:47.622] [exthost] [info] ExtensionService#loadCommonJSModule /home/chandra/.vscode/extensions/gorbenko.adonis-js-autocomplete-0.0.1/src/extension
+[2019-06-26 23:58:47.880] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools {"startup":true,"activationEvent":"*"}
+[2019-06-26 23:58:47.880] [exthost] [info] ExtensionService#loadCommonJSModule /home/chandra/.vscode/extensions/ms-vscode.cpptools-0.24.0-insiders2/dist/main
+[2019-06-26 23:58:48.478] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2019-06-26 23:58:48.478] [exthost] [info] ExtensionService#loadCommonJSModule /home/chandra/.vscode/extensions/pkief.material-icon-theme-3.8.0/dist/extension
+[2019-06-26 23:58:48.645] [exthost] [info] ExtensionService#_doActivateExtension yokoe.vscode-postfix-go {"startup":true,"activationEvent":"*"}
+[2019-06-26 23:58:48.645] [exthost] [info] ExtensionService#loadCommonJSModule /home/chandra/.vscode/extensions/yokoe.vscode-postfix-go-0.0.12/out/src/extension
+[2019-06-26 23:58:48.870] [exthost] [info] eager extensions activated
+[2019-06-26 23:59:00.149] [exthost] [info] ExtensionService#_doActivateExtension tchojnacki.cpp-compile {"startup":false,"activationEvent":"onLanguage:cpp"}
+[2019-06-26 23:59:00.149] [exthost] [info] ExtensionService#loadCommonJSModule /home/chandra/.vscode/extensions/tchojnacki.cpp-compile-0.0.2/extension
+[2019-06-27 00:46:10.459] [exthost] [error] onWillSaveTextDocument-listener from extension 'ms-vscode.cpptools' threw ERROR
+[2019-06-27 00:46:10.620] [exthost] [error] Error: timeout
+	at Timeout.define._deliverEventAsync.setTimeout [as _onTimeout] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:452:964)
+	at ontimeout (timers.js:427:11)
+	at tryOnTimeout (timers.js:289:5)
+	at listOnTimeout (timers.js:252:5)
+	at Timer.processTimers (timers.js:212:10)
+[2019-06-27 00:47:16.541] [exthost] [error] onWillSaveTextDocument-listener from extension 'ms-vscode.cpptools' threw ERROR
+[2019-06-27 00:47:16.618] [exthost] [error] Error: timeout
+	at Timeout.define._deliverEventAsync.setTimeout [as _onTimeout] (/usr/share/code/resources/app/out/vs/workbench/services/extensions/node/extensionHostProcess.js:452:964)
+	at ontimeout (timers.js:427:11)
+	at tryOnTimeout (timers.js:289:5)
+	at listOnTimeout (timers.js:252:5)
+	at Timer.processTimers (timers.js:212:10)

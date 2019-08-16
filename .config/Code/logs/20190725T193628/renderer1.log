@@ -1,0 +1,2 @@
+[2019-07-25 19:42:05.999] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/chandra/nodeJs/simpus-backend/.vscode'
+[2019-07-25 19:42:06.000] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/chandra/nodeJs/simpus-backend/.vscode'

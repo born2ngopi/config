@@ -1,0 +1,132 @@
+[
+	{
+		"name": "TEXT",
+		"value": "Preparing request to http://127.0.0.1:8080/users/list",
+		"timestamp": 1565455616452
+	},
+	{
+		"name": "TEXT",
+		"value": "Using libcurl/7.61.1 OpenSSL/1.1.0h zlib/1.2.11 nghttp2/1.29.0",
+		"timestamp": 1565455616452
+	},
+	{
+		"name": "TEXT",
+		"value": "Current time is 2019-08-10T16:46:56.452Z",
+		"timestamp": 1565455616453
+	},
+	{
+		"name": "TEXT",
+		"value": "Disable timeout",
+		"timestamp": 1565455616453
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable automatic URL encoding",
+		"timestamp": 1565455616453
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable SSL validation",
+		"timestamp": 1565455616453
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable cookie sending with jar of 0 cookies",
+		"timestamp": 1565455616459
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection 26 seems to be dead!\n",
+		"timestamp": 1565455616540
+	},
+	{
+		"name": "TEXT",
+		"value": "Closing connection 26\n",
+		"timestamp": 1565455616540
+	},
+	{
+		"name": "TEXT",
+		"value": "  Trying 127.0.0.1...\n",
+		"timestamp": 1565455616541
+	},
+	{
+		"name": "TEXT",
+		"value": "TCP_NODELAY set\n",
+		"timestamp": 1565455616541
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to 127.0.0.1 (127.0.0.1) port 8080 (#27)\n",
+		"timestamp": 1565455616541
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "GET /users/list HTTP/1.1\r\nHost: 127.0.0.1:8080\r\nUser-Agent: insomnia/6.5.4\r\nContent-Type: application/json\r\nAuthorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOjgsImlhdCI6MTU2NTM1Njk3OH0.R7y6OtVphyukEbLl2pl13u70aC5URe55lNG8e4kp3xc\r\nAccept: */*\r\nContent-Length: 39\r\n\r\n",
+		"timestamp": 1565455616541
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "{\n\t\"username\":\"ch\",\n\t\"password\":\"123\"\n}",
+		"timestamp": 1565455616541
+	},
+	{
+		"name": "TEXT",
+		"value": "upload completely sent off: 39 out of 39 bytes\n",
+		"timestamp": 1565455616541
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "HTTP/1.1 500 Internal Server Error\r\n",
+		"timestamp": 1565455617927
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Type: text/html; charset=utf-8\r\n",
+		"timestamp": 1565455617927
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Length: 59095\r\n",
+		"timestamp": 1565455617927
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Date: Sat, 10 Aug 2019 16:46:57 GMT\r\n",
+		"timestamp": 1565455617927
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1565455617927
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "\r\n",
+		"timestamp": 1565455617928
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 15.8 KB chunk",
+		"timestamp": 1565455617928
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1565455617929
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 16 KB chunk",
+		"timestamp": 1565455617929
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 9.9 KB chunk",
+		"timestamp": 1565455617930
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection #27 to host 127.0.0.1 left intact\n",
+		"timestamp": 1565455617930
+	}
+]

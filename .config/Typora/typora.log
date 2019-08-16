@@ -1,0 +1,1031 @@
+INFO 7/9/2019, 7:53:06 PM  cannot parse user config, use the default one
+DEBUG 7/9/2019, 7:53:10 PM  initSentry
+INFO 7/9/2019, 7:53:10 PM  luanchFromDiffVersion, pre version is undefined
+INFO 7/9/2019, 7:53:10 PM  overwriteThemeFolder
+DEBUG 7/9/2019, 7:53:10 PM  initCountly
+INFO 7/9/2019, 7:53:10 PM  ------------------start------------------
+INFO 7/9/2019, 7:53:10 PM  typora version: 0.9.72
+DEBUG 7/9/2019, 7:53:11 PM  [ '/usr/share/typora/Typora' ]
+DEBUG 7/9/2019, 7:53:11 PM  /usr/share/typora/resources/app/locales/Base.lproj/Menu.json
+ERROR 7/9/2019, 7:53:11 PM  (node:1429) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 7/9/2019, 7:53:11 PM  app.openFile
+INFO 7/9/2019, 7:53:12 PM  [focus] 1
+DEBUG 7/9/2019, 7:53:13 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'whitey.css' ]
+INFO 7/9/2019, 7:55:55 PM  [blur] 1
+INFO 7/9/2019, 7:55:57 PM  [focus] 1
+INFO 7/9/2019, 7:56:05 PM  [blur] 1
+INFO 7/9/2019, 7:56:07 PM  [focus] 1
+INFO 7/9/2019, 7:56:16 PM  [blur] 1
+INFO 7/9/2019, 8:00:06 PM  [focus] 1
+INFO 7/9/2019, 8:00:20 PM  [blur] 1
+INFO 7/9/2019, 8:00:23 PM  [focus] 1
+INFO 7/9/2019, 8:00:34 PM  [blur] 1
+INFO 7/9/2019, 8:01:49 PM  got argv [typora /home/chandra/.config/Typora/themes/README.md] from secondary instance
+DEBUG 7/9/2019, 8:01:49 PM  app.openFile
+INFO 7/9/2019, 8:01:49 PM  addRecentDocument
+INFO 7/9/2019, 8:01:49 PM  [focus] 2
+INFO 7/9/2019, 8:01:49 PM  secondary instance would exit
+INFO 7/9/2019, 8:02:01 PM  [focus] 1
+INFO 7/9/2019, 8:02:12 PM  [blur] 1
+INFO 7/9/2019, 8:02:13 PM  [focus] 1
+INFO 7/9/2019, 8:02:22 PM  ------------------quit------------------
+DEBUG 7/9/2019, 8:02:27 PM  initSentry
+DEBUG 7/9/2019, 8:02:28 PM  initCountly
+INFO 7/9/2019, 8:02:28 PM  ------------------start------------------
+INFO 7/9/2019, 8:02:28 PM  typora version: 0.9.72
+DEBUG 7/9/2019, 8:02:28 PM  [ '/usr/share/typora/Typora' ]
+DEBUG 7/9/2019, 8:02:28 PM  /usr/share/typora/resources/app/locales/Base.lproj/Menu.json
+ERROR 7/9/2019, 8:02:28 PM  (node:2059) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 7/9/2019, 8:02:28 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'solarized-dark.css',
+  'solarized.css',
+  'whitey.css' ]
+DEBUG 7/9/2019, 8:02:29 PM  app.openFile
+INFO 7/9/2019, 8:02:29 PM  [focus] 1
+INFO 7/9/2019, 8:02:36 PM  window.File && (function(){		File.setTheme();	})();
+INFO 7/9/2019, 8:02:44 PM  [blur] 1
+INFO 7/9/2019, 8:02:44 PM  [focus] 1
+INFO 7/9/2019, 8:02:45 PM  [blur] 1
+INFO 7/9/2019, 8:04:00 PM  [focus] 1
+INFO 7/9/2019, 8:04:27 PM  [blur] 1
+INFO 7/9/2019, 8:04:36 PM  [focus] 1
+INFO 7/9/2019, 8:04:41 PM  [blur] 1
+INFO 7/9/2019, 8:04:42 PM  [focus] 1
+INFO 7/9/2019, 8:04:43 PM  [blur] 1
+INFO 7/9/2019, 8:04:43 PM  [focus] 1
+INFO 7/9/2019, 8:04:44 PM  [blur] 1
+INFO 7/9/2019, 8:04:45 PM  [focus] 1
+INFO 7/9/2019, 8:04:45 PM  [blur] 1
+INFO 7/9/2019, 8:07:48 PM  [focus] 1
+INFO 7/9/2019, 9:05:39 PM  [blur] 1
+INFO 7/9/2019, 9:11:31 PM  [focus] 1
+INFO 7/9/2019, 9:11:33 PM  [blur] 1
+INFO 7/9/2019, 9:11:36 PM  [focus] 1
+INFO 7/9/2019, 9:12:27 PM  [blur] 1
+INFO 7/9/2019, 9:12:29 PM  [focus] 1
+INFO 7/9/2019, 9:13:07 PM  [blur] 1
+INFO 7/9/2019, 9:13:25 PM  [focus] 1
+INFO 7/9/2019, 9:13:35 PM  [blur] 1
+INFO 7/9/2019, 9:13:36 PM  [focus] 1
+INFO 7/9/2019, 9:14:10 PM  [blur] 1
+INFO 7/9/2019, 9:19:00 PM  [focus] 1
+INFO 7/9/2019, 9:19:41 PM  [blur] 1
+INFO 7/9/2019, 9:19:45 PM  [focus] 1
+INFO 7/9/2019, 9:19:49 PM  [blur] 1
+INFO 7/9/2019, 9:19:52 PM  [focus] 1
+INFO 7/9/2019, 9:20:05 PM  [blur] 1
+INFO 7/9/2019, 9:20:09 PM  [focus] 1
+INFO 7/9/2019, 9:20:24 PM  [blur] 1
+INFO 7/9/2019, 9:20:26 PM  [focus] 1
+INFO 7/9/2019, 9:20:33 PM  [blur] 1
+INFO 7/9/2019, 9:20:34 PM  [focus] 1
+INFO 7/9/2019, 9:20:36 PM  [blur] 1
+INFO 7/9/2019, 9:20:37 PM  [focus] 1
+INFO 7/9/2019, 9:20:55 PM  [blur] 1
+INFO 7/9/2019, 9:21:14 PM  [focus] 1
+INFO 7/9/2019, 9:21:23 PM  [blur] 1
+INFO 7/9/2019, 9:21:25 PM  [focus] 1
+INFO 7/9/2019, 9:21:33 PM  [blur] 1
+INFO 7/9/2019, 9:21:34 PM  [focus] 1
+INFO 7/9/2019, 9:21:37 PM  [blur] 1
+INFO 7/9/2019, 9:21:41 PM  [focus] 1
+INFO 7/9/2019, 9:21:45 PM  [blur] 1
+INFO 7/9/2019, 9:21:47 PM  [focus] 1
+INFO 7/9/2019, 9:21:50 PM  [blur] 1
+INFO 7/9/2019, 9:21:52 PM  [focus] 1
+INFO 7/9/2019, 9:21:54 PM  [blur] 1
+INFO 7/9/2019, 9:21:57 PM  [focus] 1
+INFO 7/9/2019, 9:22:05 PM  [blur] 1
+INFO 7/9/2019, 9:22:07 PM  [focus] 1
+INFO 7/9/2019, 9:22:17 PM  [blur] 1
+INFO 7/9/2019, 9:22:18 PM  [focus] 1
+INFO 7/9/2019, 9:22:21 PM  [blur] 1
+INFO 7/9/2019, 9:22:24 PM  [focus] 1
+INFO 7/9/2019, 9:22:52 PM  [blur] 1
+INFO 7/9/2019, 9:23:12 PM  [focus] 1
+INFO 7/9/2019, 9:23:13 PM  [blur] 1
+INFO 7/9/2019, 9:25:30 PM  [focus] 1
+INFO 7/9/2019, 9:25:48 PM  [blur] 1
+INFO 7/9/2019, 9:26:08 PM  [focus] 1
+INFO 7/9/2019, 9:26:36 PM  [blur] 1
+INFO 7/9/2019, 9:26:48 PM  [focus] 1
+INFO 7/9/2019, 9:27:30 PM  [blur] 1
+INFO 7/9/2019, 9:27:38 PM  [focus] 1
+INFO 7/9/2019, 9:27:39 PM  [blur] 1
+INFO 7/9/2019, 9:27:47 PM  [focus] 1
+INFO 7/9/2019, 9:27:48 PM  [blur] 1
+INFO 7/9/2019, 9:27:49 PM  [focus] 1
+INFO 7/9/2019, 9:27:51 PM  [blur] 1
+INFO 7/9/2019, 9:27:54 PM  [focus] 1
+INFO 7/9/2019, 9:28:12 PM  [blur] 1
+INFO 7/9/2019, 9:28:14 PM  [focus] 1
+INFO 7/9/2019, 9:28:35 PM  [blur] 1
+INFO 7/9/2019, 9:29:03 PM  [focus] 1
+INFO 7/9/2019, 9:29:26 PM  [blur] 1
+INFO 7/9/2019, 9:29:35 PM  [focus] 1
+INFO 7/9/2019, 9:29:42 PM  [blur] 1
+INFO 7/9/2019, 9:29:42 PM  [focus] 1
+INFO 7/9/2019, 9:29:46 PM  [blur] 1
+INFO 7/9/2019, 9:29:50 PM  [focus] 1
+INFO 7/9/2019, 9:29:59 PM  [blur] 1
+INFO 7/9/2019, 9:29:59 PM  [focus] 1
+INFO 7/9/2019, 9:30:57 PM  [blur] 1
+INFO 7/9/2019, 9:31:01 PM  [focus] 1
+INFO 7/9/2019, 9:31:11 PM  [blur] 1
+INFO 7/9/2019, 9:31:31 PM  [focus] 1
+INFO 7/9/2019, 9:31:33 PM  [blur] 1
+INFO 7/9/2019, 9:31:38 PM  [focus] 1
+INFO 7/9/2019, 9:31:39 PM  [blur] 1
+INFO 7/9/2019, 9:31:40 PM  [focus] 1
+INFO 7/9/2019, 9:31:45 PM  [blur] 1
+INFO 7/9/2019, 9:31:45 PM  [focus] 1
+INFO 7/9/2019, 9:31:47 PM  [blur] 1
+INFO 7/9/2019, 9:31:47 PM  [focus] 1
+INFO 7/9/2019, 9:31:52 PM  [blur] 1
+INFO 7/9/2019, 9:31:56 PM  [focus] 1
+INFO 7/9/2019, 9:32:07 PM  [blur] 1
+INFO 7/9/2019, 9:32:49 PM  [focus] 1
+INFO 7/9/2019, 9:32:49 PM  addRecentDocument
+INFO 7/9/2019, 9:33:16 PM  [blur] 1
+INFO 7/9/2019, 9:33:31 PM  [focus] 1
+ERROR 7/9/2019, 9:33:31 PM  [RenderProcess 1][Error] ReferenceError: extension is not defined
+    at file:///usr/share/typora/resources/app//app/window/frame.js:1:1044114
+    at CallbacksRegistry.apply (/usr/share/typora/resources/electron.asar/renderer/callbacks-registry.js:47:25)
+    at /usr/share/typora/resources/electron.asar/renderer/api/remote.js:287:21
+    at EventEmitter.<anonymous> (/usr/share/typora/resources/electron.asar/renderer/api/remote.js:277:7)
+    at EventEmitter.emit (events.js:194:13)
+INFO 7/9/2019, 9:33:37 PM  [blur] 1
+INFO 7/9/2019, 9:33:47 PM  [focus] 1
+INFO 7/9/2019, 9:33:56 PM  [blur] 1
+INFO 7/9/2019, 9:40:57 PM  [focus] 1
+INFO 7/9/2019, 9:42:38 PM  [blur] 1
+INFO 7/9/2019, 9:44:05 PM  [focus] 1
+INFO 7/9/2019, 9:44:11 PM  [blur] 1
+INFO 7/9/2019, 9:44:12 PM  [focus] 1
+INFO 7/9/2019, 9:44:13 PM  [blur] 1
+INFO 7/9/2019, 9:45:33 PM  [focus] 1
+INFO 7/9/2019, 9:45:34 PM  [blur] 1
+INFO 7/9/2019, 9:45:35 PM  [focus] 1
+INFO 7/9/2019, 9:45:49 PM  [blur] 1
+INFO 7/9/2019, 9:45:50 PM  [focus] 1
+INFO 7/9/2019, 9:46:25 PM  [blur] 1
+INFO 7/9/2019, 9:46:35 PM  [focus] 1
+INFO 7/9/2019, 9:46:52 PM  [blur] 1
+INFO 7/9/2019, 9:48:15 PM  [focus] 1
+INFO 7/9/2019, 9:48:16 PM  [blur] 1
+INFO 7/9/2019, 9:48:17 PM  [focus] 1
+INFO 7/9/2019, 9:48:19 PM  [blur] 1
+INFO 7/9/2019, 9:48:20 PM  [focus] 1
+INFO 7/9/2019, 9:48:23 PM  [blur] 1
+INFO 7/9/2019, 9:48:36 PM  [focus] 1
+INFO 7/9/2019, 9:48:37 PM  [blur] 1
+INFO 7/9/2019, 9:48:39 PM  [focus] 1
+INFO 7/9/2019, 9:49:01 PM  [blur] 1
+INFO 7/9/2019, 9:49:02 PM  [focus] 1
+INFO 7/9/2019, 9:49:04 PM  [blur] 1
+INFO 7/9/2019, 9:49:41 PM  [focus] 1
+INFO 7/9/2019, 9:50:08 PM  [blur] 1
+INFO 7/9/2019, 9:50:09 PM  [focus] 1
+INFO 7/9/2019, 9:50:09 PM  [blur] 1
+INFO 7/9/2019, 9:50:11 PM  [focus] 1
+INFO 7/9/2019, 9:50:31 PM  [blur] 1
+INFO 7/9/2019, 9:50:32 PM  [focus] 1
+INFO 7/9/2019, 9:50:43 PM  [blur] 1
+INFO 7/9/2019, 9:50:50 PM  [focus] 1
+INFO 7/9/2019, 9:51:01 PM  [blur] 1
+INFO 7/9/2019, 9:51:02 PM  [focus] 1
+INFO 7/9/2019, 9:51:05 PM  [blur] 1
+INFO 7/9/2019, 9:51:06 PM  [focus] 1
+INFO 7/9/2019, 9:51:10 PM  [blur] 1
+INFO 7/9/2019, 9:51:11 PM  [focus] 1
+INFO 7/9/2019, 9:51:14 PM  [blur] 1
+INFO 7/9/2019, 9:51:15 PM  [focus] 1
+INFO 7/9/2019, 9:51:35 PM  [blur] 1
+INFO 7/9/2019, 9:51:36 PM  [focus] 1
+INFO 7/9/2019, 9:51:37 PM  [blur] 1
+INFO 7/9/2019, 9:52:43 PM  [focus] 1
+INFO 7/9/2019, 9:53:04 PM  [blur] 1
+INFO 7/9/2019, 9:53:29 PM  [focus] 1
+INFO 7/9/2019, 9:53:36 PM  [blur] 1
+INFO 7/9/2019, 9:53:36 PM  [focus] 1
+INFO 7/9/2019, 9:53:38 PM  [blur] 1
+INFO 7/9/2019, 9:53:46 PM  [focus] 1
+INFO 7/9/2019, 9:53:47 PM  [blur] 1
+INFO 7/9/2019, 9:56:04 PM  [focus] 1
+INFO 7/9/2019, 9:56:11 PM  [blur] 1
+INFO 7/9/2019, 9:56:29 PM  [focus] 1
+INFO 7/9/2019, 9:56:30 PM  [blur] 1
+INFO 7/9/2019, 9:56:43 PM  [focus] 1
+INFO 7/9/2019, 9:56:47 PM  [blur] 1
+INFO 7/9/2019, 9:57:01 PM  [focus] 1
+INFO 7/9/2019, 9:57:11 PM  [blur] 1
+INFO 7/9/2019, 9:57:11 PM  [focus] 1
+INFO 7/9/2019, 9:57:16 PM  [blur] 1
+INFO 7/9/2019, 9:57:18 PM  [focus] 1
+INFO 7/9/2019, 9:57:25 PM  [blur] 1
+INFO 7/9/2019, 9:57:26 PM  [focus] 1
+INFO 7/9/2019, 9:57:27 PM  [blur] 1
+INFO 7/9/2019, 9:57:42 PM  [focus] 1
+INFO 7/9/2019, 9:57:47 PM  [blur] 1
+INFO 7/9/2019, 9:58:40 PM  [focus] 1
+INFO 7/9/2019, 9:58:43 PM  [blur] 1
+INFO 7/9/2019, 9:58:44 PM  [focus] 1
+INFO 7/9/2019, 9:58:53 PM  [blur] 1
+INFO 7/9/2019, 9:59:03 PM  [focus] 1
+INFO 7/9/2019, 9:59:05 PM  [blur] 1
+INFO 7/9/2019, 9:59:17 PM  [focus] 1
+INFO 7/9/2019, 9:59:56 PM  [blur] 1
+INFO 7/9/2019, 10:00:02 PM  [focus] 1
+INFO 7/9/2019, 10:00:06 PM  [blur] 1
+INFO 7/9/2019, 10:00:07 PM  [focus] 1
+INFO 7/9/2019, 10:00:50 PM  [blur] 1
+INFO 7/9/2019, 10:01:07 PM  [focus] 1
+INFO 7/9/2019, 10:01:35 PM  [blur] 1
+INFO 7/9/2019, 10:01:40 PM  [focus] 1
+INFO 7/9/2019, 10:01:42 PM  [blur] 1
+INFO 7/9/2019, 10:01:44 PM  [focus] 1
+INFO 7/9/2019, 10:02:20 PM  window.File && (function(){		File.setTheme();	})();
+INFO 7/9/2019, 10:02:26 PM  [blur] 1
+INFO 7/9/2019, 10:02:28 PM  [focus] 1
+INFO 7/9/2019, 10:02:30 PM  [blur] 1
+INFO 7/9/2019, 10:02:39 PM  [focus] 1
+INFO 7/9/2019, 10:04:05 PM  [blur] 1
+INFO 7/9/2019, 10:04:06 PM  [focus] 1
+INFO 7/9/2019, 10:04:09 PM  [blur] 1
+INFO 7/9/2019, 10:04:15 PM  [focus] 1
+INFO 7/9/2019, 10:04:20 PM  [blur] 1
+INFO 7/9/2019, 10:04:21 PM  [focus] 1
+INFO 7/9/2019, 10:04:24 PM  [blur] 1
+INFO 7/9/2019, 10:04:25 PM  [focus] 1
+INFO 7/9/2019, 10:04:30 PM  [blur] 1
+INFO 7/9/2019, 10:04:31 PM  [focus] 1
+INFO 7/9/2019, 10:04:35 PM  [blur] 1
+INFO 7/9/2019, 10:04:35 PM  [focus] 1
+INFO 7/9/2019, 10:05:03 PM  [blur] 1
+INFO 7/9/2019, 10:05:14 PM  [focus] 1
+INFO 7/9/2019, 10:05:18 PM  [blur] 1
+INFO 7/9/2019, 10:05:19 PM  [focus] 1
+INFO 7/9/2019, 10:05:27 PM  [blur] 1
+INFO 7/9/2019, 10:05:28 PM  [focus] 1
+INFO 7/9/2019, 10:05:30 PM  [blur] 1
+INFO 7/9/2019, 10:05:31 PM  [focus] 1
+INFO 7/9/2019, 10:05:34 PM  [blur] 1
+INFO 7/9/2019, 10:05:35 PM  [focus] 1
+INFO 7/9/2019, 10:05:41 PM  [blur] 1
+INFO 7/9/2019, 10:05:42 PM  [focus] 1
+INFO 7/9/2019, 10:05:50 PM  [blur] 1
+INFO 7/9/2019, 10:05:51 PM  [focus] 1
+INFO 7/9/2019, 10:06:05 PM  [blur] 1
+INFO 7/9/2019, 10:06:23 PM  [focus] 1
+INFO 7/9/2019, 10:06:24 PM  [blur] 1
+INFO 7/9/2019, 10:06:25 PM  [focus] 1
+INFO 7/9/2019, 10:06:52 PM  [blur] 1
+INFO 7/9/2019, 10:06:52 PM  [focus] 1
+INFO 7/9/2019, 10:06:55 PM  [blur] 1
+INFO 7/9/2019, 10:07:18 PM  [focus] 1
+INFO 7/9/2019, 10:08:27 PM  [blur] 1
+INFO 7/9/2019, 10:08:27 PM  [focus] 1
+INFO 7/9/2019, 10:08:28 PM  [blur] 1
+INFO 7/9/2019, 10:08:31 PM  [focus] 1
+INFO 7/9/2019, 10:10:08 PM  [blur] 1
+INFO 7/9/2019, 10:10:09 PM  [focus] 1
+INFO 7/9/2019, 10:10:10 PM  [blur] 1
+INFO 7/9/2019, 10:11:06 PM  [focus] 1
+INFO 7/9/2019, 10:11:07 PM  [blur] 1
+INFO 7/9/2019, 10:11:10 PM  [focus] 1
+INFO 7/9/2019, 10:11:10 PM  [blur] 1
+INFO 7/9/2019, 10:11:10 PM  [focus] 1
+INFO 7/9/2019, 10:12:01 PM  [blur] 1
+INFO 7/9/2019, 10:12:04 PM  [focus] 1
+INFO 7/9/2019, 10:12:06 PM  [blur] 1
+INFO 7/9/2019, 10:12:06 PM  [focus] 1
+INFO 7/9/2019, 10:12:08 PM  [blur] 1
+INFO 7/9/2019, 10:12:09 PM  [focus] 1
+INFO 7/9/2019, 10:12:17 PM  [blur] 1
+INFO 7/9/2019, 10:12:22 PM  [focus] 1
+INFO 7/9/2019, 10:12:27 PM  [blur] 1
+INFO 7/9/2019, 10:12:30 PM  [focus] 1
+INFO 7/9/2019, 10:12:32 PM  [blur] 1
+INFO 7/9/2019, 10:13:36 PM  [focus] 1
+INFO 7/9/2019, 10:13:50 PM  [blur] 1
+INFO 7/9/2019, 10:27:50 PM  [focus] 1
+INFO 7/9/2019, 10:27:54 PM  [blur] 1
+INFO 7/9/2019, 10:30:26 PM  [focus] 1
+INFO 7/9/2019, 10:30:26 PM  [blur] 1
+INFO 7/9/2019, 10:30:31 PM  [focus] 1
+INFO 7/9/2019, 10:30:32 PM  [blur] 1
+INFO 7/9/2019, 10:32:26 PM  [focus] 1
+INFO 7/9/2019, 10:32:33 PM  ------------------quit------------------
+DEBUG 7/10/2019, 12:17:10 PM  initSentry
+DEBUG 7/10/2019, 12:17:11 PM  initCountly
+INFO 7/10/2019, 12:17:12 PM  ------------------start------------------
+INFO 7/10/2019, 12:17:12 PM  typora version: 0.9.72
+DEBUG 7/10/2019, 12:17:12 PM  [ '/usr/share/typora/Typora', '.' ]
+DEBUG 7/10/2019, 12:17:12 PM  app.openFile
+DEBUG 7/10/2019, 12:17:13 PM  /usr/share/typora/resources/app/locales/Base.lproj/Menu.json
+ERROR 7/10/2019, 12:17:13 PM  (node:2841) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 7/10/2019, 12:17:13 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'solarized-dark.css',
+  'solarized.css',
+  'whitey.css' ]
+INFO 7/10/2019, 12:17:14 PM  [focus] 1
+INFO 7/10/2019, 12:17:16 PM  [blur] 1
+INFO 7/10/2019, 12:17:19 PM  [focus] 1
+INFO 7/10/2019, 12:17:21 PM  [blur] 1
+INFO 7/10/2019, 12:17:23 PM  ------------------quit------------------
+DEBUG 7/10/2019, 12:17:42 PM  initSentry
+DEBUG 7/10/2019, 12:17:42 PM  initCountly
+INFO 7/10/2019, 12:17:43 PM  ------------------start------------------
+INFO 7/10/2019, 12:17:43 PM  typora version: 0.9.72
+DEBUG 7/10/2019, 12:17:43 PM  [ '/usr/share/typora/Typora' ]
+DEBUG 7/10/2019, 12:17:43 PM  /usr/share/typora/resources/app/locales/Base.lproj/Menu.json
+ERROR 7/10/2019, 12:17:43 PM  (node:2967) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 7/10/2019, 12:17:43 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'solarized-dark.css',
+  'solarized.css',
+  'whitey.css' ]
+DEBUG 7/10/2019, 12:17:43 PM  app.openFile
+INFO 7/10/2019, 12:17:43 PM  [focus] 1
+DEBUG 7/10/2019, 10:28:27 PM  initSentry
+DEBUG 7/10/2019, 10:28:28 PM  initCountly
+INFO 7/10/2019, 10:28:28 PM  ------------------start------------------
+INFO 7/10/2019, 10:28:28 PM  typora version: 0.9.72
+DEBUG 7/10/2019, 10:28:29 PM  [ '/usr/share/typora/Typora',
+  '/home/chandra/git/apa/Tela-icon-theme/README.md' ]
+DEBUG 7/10/2019, 10:28:29 PM  app.openFile
+INFO 7/10/2019, 10:28:29 PM  addRecentDocument
+DEBUG 7/10/2019, 10:28:31 PM  /usr/share/typora/resources/app/locales/Base.lproj/Menu.json
+ERROR 7/10/2019, 10:28:31 PM  (node:2771) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 7/10/2019, 10:28:31 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'solarized-dark.css',
+  'solarized.css',
+  'whitey.css' ]
+INFO 7/10/2019, 10:28:32 PM  [focus] 1
+INFO 7/10/2019, 10:29:00 PM  ------------------quit------------------
+DEBUG 7/11/2019, 9:56:20 PM  initSentry
+DEBUG 7/11/2019, 9:56:20 PM  initCountly
+INFO 7/11/2019, 9:56:21 PM  ------------------start------------------
+INFO 7/11/2019, 9:56:21 PM  typora version: 0.9.72
+DEBUG 7/11/2019, 9:56:22 PM  [ '/usr/share/typora/Typora' ]
+DEBUG 7/11/2019, 9:56:22 PM  /usr/share/typora/resources/app/locales/Base.lproj/Menu.json
+ERROR 7/11/2019, 9:56:22 PM  (node:7026) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 7/11/2019, 9:56:23 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'solarized-dark.css',
+  'solarized.css',
+  'whitey.css' ]
+DEBUG 7/11/2019, 9:56:23 PM  app.openFile
+INFO 7/11/2019, 9:56:25 PM  [focus] 1
+INFO 7/11/2019, 9:57:38 PM  [blur] 1
+INFO 7/11/2019, 9:57:38 PM  [focus] 1
+INFO 7/11/2019, 9:57:54 PM  [blur] 1
+INFO 7/11/2019, 9:58:27 PM  [focus] 1
+INFO 7/11/2019, 9:59:06 PM  [blur] 1
+INFO 7/11/2019, 10:05:21 PM  [focus] 1
+INFO 7/11/2019, 10:05:30 PM  [blur] 1
+INFO 7/11/2019, 10:05:35 PM  [focus] 1
+INFO 7/11/2019, 10:05:51 PM  [blur] 1
+INFO 7/11/2019, 10:05:53 PM  [focus] 1
+INFO 7/11/2019, 10:06:00 PM  [blur] 1
+INFO 7/11/2019, 10:06:01 PM  [focus] 1
+INFO 7/11/2019, 10:06:04 PM  [blur] 1
+INFO 7/11/2019, 10:06:06 PM  [focus] 1
+INFO 7/11/2019, 10:06:13 PM  [blur] 1
+INFO 7/11/2019, 10:06:29 PM  [focus] 1
+INFO 7/11/2019, 10:06:44 PM  [blur] 1
+INFO 7/11/2019, 10:06:45 PM  [focus] 1
+INFO 7/11/2019, 10:06:52 PM  [blur] 1
+INFO 7/11/2019, 10:06:54 PM  [focus] 1
+INFO 7/11/2019, 10:06:55 PM  [blur] 1
+INFO 7/11/2019, 10:09:07 PM  [focus] 1
+INFO 7/11/2019, 10:21:12 PM  [blur] 1
+INFO 7/11/2019, 10:22:45 PM  [focus] 1
+INFO 7/11/2019, 10:22:49 PM  [blur] 1
+INFO 7/11/2019, 10:23:00 PM  [focus] 1
+INFO 7/11/2019, 10:24:26 PM  [blur] 1
+INFO 7/11/2019, 10:24:27 PM  [focus] 1
+INFO 7/11/2019, 10:24:27 PM  [blur] 1
+INFO 7/11/2019, 10:24:55 PM  [focus] 1
+INFO 7/11/2019, 10:25:47 PM  [blur] 1
+INFO 7/11/2019, 10:25:50 PM  [focus] 1
+INFO 7/11/2019, 10:26:06 PM  [blur] 1
+INFO 7/11/2019, 10:26:07 PM  [focus] 1
+INFO 7/11/2019, 10:26:18 PM  [blur] 1
+INFO 7/11/2019, 10:26:19 PM  [focus] 1
+INFO 7/11/2019, 10:26:29 PM  [blur] 1
+INFO 7/11/2019, 10:26:30 PM  [focus] 1
+INFO 7/11/2019, 10:27:24 PM  [blur] 1
+INFO 7/11/2019, 10:28:23 PM  [focus] 1
+INFO 7/11/2019, 10:28:47 PM  [blur] 1
+INFO 7/11/2019, 10:28:47 PM  [focus] 1
+INFO 7/11/2019, 10:28:48 PM  [blur] 1
+INFO 7/11/2019, 10:29:21 PM  [focus] 1
+INFO 7/11/2019, 10:30:59 PM  [blur] 1
+INFO 7/11/2019, 10:31:04 PM  [focus] 1
+INFO 7/11/2019, 10:31:05 PM  [blur] 1
+INFO 7/11/2019, 10:31:06 PM  [focus] 1
+INFO 7/11/2019, 10:31:56 PM  [blur] 1
+INFO 7/11/2019, 10:31:56 PM  [focus] 1
+INFO 7/11/2019, 10:32:00 PM  [blur] 1
+INFO 7/11/2019, 10:32:01 PM  [focus] 1
+INFO 7/11/2019, 10:32:01 PM  [blur] 1
+INFO 7/11/2019, 10:32:17 PM  [focus] 1
+INFO 7/11/2019, 10:33:53 PM  [blur] 1
+INFO 7/11/2019, 10:34:56 PM  [focus] 1
+INFO 7/11/2019, 10:35:42 PM  [blur] 1
+INFO 7/11/2019, 10:36:03 PM  [focus] 1
+INFO 7/11/2019, 10:37:43 PM  [blur] 1
+INFO 7/11/2019, 10:37:49 PM  [focus] 1
+INFO 7/11/2019, 10:38:00 PM  [blur] 1
+INFO 7/11/2019, 10:38:01 PM  [focus] 1
+INFO 7/11/2019, 10:38:17 PM  [blur] 1
+INFO 7/11/2019, 10:38:23 PM  [focus] 1
+INFO 7/11/2019, 10:39:48 PM  [blur] 1
+INFO 7/11/2019, 10:39:51 PM  [focus] 1
+INFO 7/11/2019, 10:39:51 PM  [blur] 1
+INFO 7/11/2019, 10:40:01 PM  [focus] 1
+INFO 7/11/2019, 10:40:05 PM  [blur] 1
+INFO 7/11/2019, 10:40:05 PM  [focus] 1
+INFO 7/11/2019, 10:40:28 PM  [blur] 1
+INFO 7/11/2019, 10:42:19 PM  [focus] 1
+INFO 7/11/2019, 10:42:43 PM  [blur] 1
+INFO 7/11/2019, 10:44:07 PM  [focus] 1
+INFO 7/11/2019, 10:45:00 PM  [blur] 1
+INFO 7/11/2019, 10:45:04 PM  [focus] 1
+INFO 7/11/2019, 10:45:04 PM  [blur] 1
+INFO 7/11/2019, 10:45:05 PM  [focus] 1
+INFO 7/11/2019, 10:45:24 PM  [blur] 1
+INFO 7/11/2019, 10:45:26 PM  [focus] 1
+INFO 7/11/2019, 10:45:59 PM  [blur] 1
+INFO 7/11/2019, 10:46:07 PM  [focus] 1
+INFO 7/11/2019, 10:46:30 PM  [blur] 1
+INFO 7/11/2019, 10:46:30 PM  [focus] 1
+INFO 7/11/2019, 10:47:08 PM  [blur] 1
+INFO 7/11/2019, 10:47:34 PM  [focus] 1
+INFO 7/11/2019, 10:47:37 PM  [blur] 1
+INFO 7/11/2019, 10:47:43 PM  [focus] 1
+INFO 7/11/2019, 10:47:44 PM  [blur] 1
+INFO 7/11/2019, 10:47:49 PM  [focus] 1
+INFO 7/11/2019, 10:48:59 PM  [blur] 1
+INFO 7/11/2019, 10:50:08 PM  [focus] 1
+INFO 7/11/2019, 10:50:23 PM  [blur] 1
+INFO 7/11/2019, 10:50:25 PM  [focus] 1
+INFO 7/11/2019, 10:50:26 PM  [blur] 1
+INFO 7/11/2019, 10:50:29 PM  [focus] 1
+INFO 7/11/2019, 10:50:59 PM  [blur] 1
+INFO 7/11/2019, 10:51:02 PM  [focus] 1
+INFO 7/11/2019, 10:52:15 PM  [blur] 1
+INFO 7/11/2019, 10:52:17 PM  [focus] 1
+INFO 7/11/2019, 10:52:25 PM  [blur] 1
+INFO 7/11/2019, 10:52:26 PM  [focus] 1
+INFO 7/11/2019, 10:54:51 PM  [blur] 1
+INFO 7/11/2019, 10:54:55 PM  [focus] 1
+INFO 7/11/2019, 10:56:15 PM  [blur] 1
+INFO 7/11/2019, 10:56:20 PM  [focus] 1
+INFO 7/11/2019, 10:56:41 PM  [blur] 1
+INFO 7/11/2019, 10:57:02 PM  [focus] 1
+INFO 7/11/2019, 10:57:12 PM  [blur] 1
+INFO 7/11/2019, 10:57:25 PM  [focus] 1
+INFO 7/11/2019, 10:58:00 PM  [blur] 1
+INFO 7/11/2019, 10:58:04 PM  [focus] 1
+INFO 7/11/2019, 10:58:47 PM  [blur] 1
+INFO 7/11/2019, 10:58:49 PM  [focus] 1
+INFO 7/11/2019, 10:58:53 PM  [blur] 1
+INFO 7/11/2019, 10:58:57 PM  [focus] 1
+INFO 7/11/2019, 10:59:04 PM  [blur] 1
+INFO 7/11/2019, 10:59:06 PM  [focus] 1
+INFO 7/11/2019, 10:59:22 PM  [blur] 1
+INFO 7/11/2019, 10:59:29 PM  [focus] 1
+INFO 7/11/2019, 10:59:39 PM  [blur] 1
+INFO 7/11/2019, 10:59:42 PM  [focus] 1
+INFO 7/11/2019, 11:00:09 PM  [blur] 1
+INFO 7/11/2019, 11:00:12 PM  [focus] 1
+INFO 7/11/2019, 11:00:17 PM  [blur] 1
+INFO 7/11/2019, 11:00:21 PM  [focus] 1
+INFO 7/11/2019, 11:06:36 PM  [blur] 1
+INFO 7/11/2019, 11:06:48 PM  [focus] 1
+INFO 7/11/2019, 11:06:48 PM  addRecentDocument
+INFO 7/11/2019, 11:35:06 PM  [blur] 1
+INFO 7/11/2019, 11:41:27 PM  [focus] 1
+INFO 7/11/2019, 11:42:00 PM  [blur] 1
+INFO 7/11/2019, 11:42:03 PM  [focus] 1
+INFO 7/11/2019, 11:42:06 PM  [blur] 1
+INFO 7/11/2019, 11:51:51 PM  [focus] 1
+INFO 7/11/2019, 11:51:54 PM  [blur] 1
+INFO 7/11/2019, 11:53:51 PM  [focus] 1
+INFO 7/11/2019, 11:53:53 PM  [blur] 1
+INFO 7/11/2019, 11:54:03 PM  [focus] 1
+INFO 7/11/2019, 11:54:05 PM  [blur] 1
+INFO 7/12/2019, 12:07:06 AM  [focus] 1
+INFO 7/12/2019, 12:07:25 AM  ------------------quit------------------
+DEBUG 8/12/2019, 10:42:35 PM  initSentry
+DEBUG 8/12/2019, 10:42:36 PM  initCountly
+INFO 8/12/2019, 10:42:37 PM  ------------------start------------------
+INFO 8/12/2019, 10:42:37 PM  typora version: 0.9.72
+DEBUG 8/12/2019, 10:42:37 PM  [ '/usr/share/typora/Typora' ]
+DEBUG 8/12/2019, 10:42:37 PM  /usr/share/typora/resources/app/locales/Base.lproj/Menu.json
+ERROR 8/12/2019, 10:42:38 PM  (node:12552) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 8/12/2019, 10:42:38 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'solarized-dark.css',
+  'solarized.css',
+  'whitey.css' ]
+DEBUG 8/12/2019, 10:42:38 PM  app.openFile
+INFO 8/12/2019, 10:42:38 PM  addRecentDocument
+INFO 8/12/2019, 10:42:40 PM  [focus] 1
+DEBUG 8/12/2019, 10:46:04 PM  app.openFile
+INFO 8/12/2019, 10:46:04 PM  [blur] 1
+INFO 8/12/2019, 10:46:04 PM  [focus] 2
+INFO 8/12/2019, 10:46:11 PM  [blur] 2
+INFO 8/12/2019, 10:46:11 PM  [focus] 1
+INFO 8/12/2019, 10:46:17 PM  [focus] 2
+INFO 8/12/2019, 10:46:17 PM  [blur] 2
+INFO 8/12/2019, 10:46:17 PM  [focus] 2
+INFO 8/12/2019, 10:46:17 PM  [blur] 2
+INFO 8/12/2019, 10:46:17 PM  [focus] 2
+INFO 8/12/2019, 10:46:25 PM  window.File && (function(){		File.setTheme();	})();
+INFO 8/12/2019, 10:46:39 PM  [blur] 2
+INFO 8/12/2019, 10:47:00 PM  [focus] 2
+INFO 8/12/2019, 10:47:00 PM  [blur] 2
+INFO 8/12/2019, 10:47:00 PM  [focus] 2
+INFO 8/12/2019, 10:47:00 PM  addRecentDocument
+INFO 8/12/2019, 10:47:48 PM  [blur] 2
+INFO 8/12/2019, 10:47:52 PM  [focus] 2
+INFO 8/12/2019, 10:48:13 PM  [blur] 2
+INFO 8/12/2019, 10:48:23 PM  [focus] 2
+INFO 8/12/2019, 10:48:34 PM  [blur] 2
+INFO 8/12/2019, 10:48:42 PM  [focus] 2
+INFO 8/12/2019, 10:48:44 PM  [blur] 2
+INFO 8/12/2019, 10:49:22 PM  [focus] 2
+INFO 8/12/2019, 10:49:48 PM  [blur] 2
+INFO 8/12/2019, 10:49:50 PM  [focus] 2
+INFO 8/12/2019, 10:50:11 PM  [blur] 2
+INFO 8/12/2019, 10:50:39 PM  [focus] 2
+INFO 8/12/2019, 10:51:06 PM  [blur] 2
+INFO 8/12/2019, 10:51:31 PM  [focus] 2
+INFO 8/12/2019, 10:51:37 PM  [blur] 2
+INFO 8/12/2019, 10:51:38 PM  [focus] 2
+INFO 8/12/2019, 10:52:01 PM  [blur] 2
+INFO 8/12/2019, 10:52:26 PM  [focus] 2
+INFO 8/12/2019, 10:53:19 PM  [blur] 2
+INFO 8/12/2019, 10:53:23 PM  [focus] 2
+INFO 8/12/2019, 10:53:50 PM  [blur] 2
+INFO 8/12/2019, 10:53:51 PM  [focus] 2
+INFO 8/12/2019, 10:54:05 PM  [blur] 2
+INFO 8/12/2019, 10:54:20 PM  [focus] 2
+INFO 8/12/2019, 10:54:44 PM  [blur] 2
+INFO 8/12/2019, 10:54:59 PM  [focus] 2
+INFO 8/12/2019, 10:55:14 PM  [blur] 2
+INFO 8/12/2019, 10:55:30 PM  [focus] 2
+INFO 8/12/2019, 10:55:32 PM  [blur] 2
+INFO 8/12/2019, 10:55:54 PM  [focus] 2
+INFO 8/12/2019, 10:55:55 PM  [blur] 2
+INFO 8/12/2019, 10:55:56 PM  [focus] 2
+INFO 8/12/2019, 10:55:57 PM  [blur] 2
+INFO 8/12/2019, 10:56:28 PM  [focus] 2
+INFO 8/12/2019, 11:01:00 PM  [blur] 2
+INFO 8/12/2019, 11:01:02 PM  [focus] 2
+INFO 8/12/2019, 11:01:23 PM  [blur] 2
+INFO 8/12/2019, 11:01:51 PM  [focus] 2
+INFO 8/12/2019, 11:03:12 PM  [blur] 2
+INFO 8/12/2019, 11:03:18 PM  [focus] 2
+INFO 8/12/2019, 11:03:18 PM  [blur] 2
+INFO 8/12/2019, 11:03:19 PM  [focus] 2
+INFO 8/12/2019, 11:04:08 PM  [blur] 2
+INFO 8/12/2019, 11:04:09 PM  [focus] 2
+INFO 8/12/2019, 11:05:03 PM  [blur] 2
+INFO 8/12/2019, 11:05:06 PM  [focus] 2
+INFO 8/12/2019, 11:07:39 PM  [blur] 2
+INFO 8/12/2019, 11:10:02 PM  [focus] 2
+INFO 8/12/2019, 11:10:12 PM  [blur] 2
+INFO 8/12/2019, 11:10:15 PM  [focus] 2
+INFO 8/12/2019, 11:10:21 PM  [blur] 2
+INFO 8/12/2019, 11:10:22 PM  [focus] 2
+INFO 8/12/2019, 11:10:34 PM  [blur] 2
+INFO 8/12/2019, 11:10:45 PM  [focus] 2
+INFO 8/12/2019, 11:10:46 PM  [blur] 2
+INFO 8/12/2019, 11:10:50 PM  [focus] 2
+INFO 8/12/2019, 11:11:14 PM  [blur] 2
+INFO 8/12/2019, 11:15:52 PM  [focus] 2
+INFO 8/12/2019, 11:16:01 PM  window.File && (function(){		File.setTheme();	})();
+INFO 8/12/2019, 11:16:04 PM  window.File && (function(){		File.setTheme();	})();
+INFO 8/12/2019, 11:16:09 PM  window.File && (function(){		File.setTheme();	})();
+INFO 8/12/2019, 11:17:15 PM  [blur] 2
+INFO 8/12/2019, 11:17:24 PM  [focus] 2
+INFO 8/12/2019, 11:17:28 PM  [blur] 2
+INFO 8/12/2019, 11:17:51 PM  [focus] 2
+INFO 8/12/2019, 11:18:42 PM  [blur] 2
+INFO 8/12/2019, 11:19:05 PM  [focus] 2
+INFO 8/12/2019, 11:19:06 PM  [blur] 2
+INFO 8/12/2019, 11:19:10 PM  [focus] 2
+INFO 8/12/2019, 11:19:10 PM  [blur] 2
+INFO 8/12/2019, 11:19:12 PM  [focus] 2
+INFO 8/12/2019, 11:20:21 PM  [blur] 2
+INFO 8/12/2019, 11:20:28 PM  [focus] 2
+INFO 8/12/2019, 11:21:02 PM  [blur] 2
+INFO 8/12/2019, 11:21:10 PM  [focus] 2
+INFO 8/12/2019, 11:22:09 PM  [blur] 2
+INFO 8/12/2019, 11:22:15 PM  [focus] 2
+INFO 8/12/2019, 11:22:56 PM  [blur] 2
+INFO 8/12/2019, 11:22:58 PM  [focus] 2
+INFO 8/12/2019, 11:22:58 PM  [blur] 2
+INFO 8/12/2019, 11:23:04 PM  [focus] 2
+INFO 8/12/2019, 11:23:08 PM  [blur] 2
+INFO 8/12/2019, 11:23:36 PM  [focus] 2
+INFO 8/12/2019, 11:23:59 PM  [blur] 2
+INFO 8/12/2019, 11:24:01 PM  [focus] 2
+INFO 8/12/2019, 11:24:34 PM  [blur] 2
+INFO 8/12/2019, 11:24:36 PM  [focus] 2
+INFO 8/12/2019, 11:24:47 PM  [blur] 2
+INFO 8/12/2019, 11:25:01 PM  [focus] 2
+INFO 8/12/2019, 11:25:57 PM  [blur] 2
+INFO 8/12/2019, 11:30:02 PM  [focus] 2
+INFO 8/12/2019, 11:30:37 PM  [blur] 2
+INFO 8/12/2019, 11:30:39 PM  [focus] 2
+INFO 8/12/2019, 11:31:18 PM  [blur] 2
+INFO 8/12/2019, 11:31:20 PM  [focus] 2
+INFO 8/12/2019, 11:32:10 PM  [blur] 2
+INFO 8/12/2019, 11:33:02 PM  [focus] 2
+INFO 8/12/2019, 11:33:23 PM  [blur] 2
+INFO 8/12/2019, 11:33:31 PM  [focus] 2
+INFO 8/12/2019, 11:33:44 PM  [blur] 2
+INFO 8/12/2019, 11:33:53 PM  [focus] 2
+INFO 8/12/2019, 11:33:58 PM  [blur] 2
+INFO 8/12/2019, 11:34:00 PM  [focus] 2
+INFO 8/12/2019, 11:34:08 PM  [blur] 2
+INFO 8/12/2019, 11:34:10 PM  [focus] 2
+INFO 8/12/2019, 11:34:43 PM  [blur] 2
+INFO 8/12/2019, 11:34:51 PM  [focus] 2
+INFO 8/12/2019, 11:35:43 PM  [blur] 2
+INFO 8/12/2019, 11:35:44 PM  [focus] 2
+INFO 8/12/2019, 11:36:05 PM  [blur] 2
+INFO 8/12/2019, 11:36:51 PM  [focus] 2
+INFO 8/12/2019, 11:36:54 PM  [blur] 2
+INFO 8/12/2019, 11:37:53 PM  [focus] 2
+INFO 8/12/2019, 11:37:57 PM  ------------------quit------------------
+DEBUG 8/13/2019, 9:27:12 PM  initSentry
+DEBUG 8/13/2019, 9:27:13 PM  initCountly
+INFO 8/13/2019, 9:27:14 PM  ------------------start------------------
+INFO 8/13/2019, 9:27:14 PM  typora version: 0.9.72
+DEBUG 8/13/2019, 9:27:14 PM  [ '/usr/share/typora/Typora' ]
+DEBUG 8/13/2019, 9:27:14 PM  /usr/share/typora/resources/app/locales/Base.lproj/Menu.json
+ERROR 8/13/2019, 9:27:14 PM  (node:7426) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 8/13/2019, 9:27:14 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'solarized-dark.css',
+  'solarized.css',
+  'whitey.css' ]
+DEBUG 8/13/2019, 9:27:14 PM  app.openFile
+INFO 8/13/2019, 9:27:16 PM  [focus] 1
+INFO 8/13/2019, 9:27:49 PM  [blur] 1
+INFO 8/13/2019, 9:27:54 PM  [focus] 1
+INFO 8/13/2019, 9:27:55 PM  [blur] 1
+INFO 8/13/2019, 9:27:55 PM  [focus] 1
+INFO 8/13/2019, 9:27:55 PM  [blur] 1
+INFO 8/13/2019, 9:27:55 PM  [focus] 1
+INFO 8/13/2019, 9:27:55 PM  addRecentDocument
+INFO 8/13/2019, 9:32:18 PM  [blur] 1
+INFO 8/13/2019, 9:32:22 PM  [focus] 1
+INFO 8/13/2019, 9:32:32 PM  [blur] 1
+INFO 8/13/2019, 9:32:35 PM  [focus] 1
+INFO 8/13/2019, 9:32:57 PM  [blur] 1
+INFO 8/13/2019, 9:33:22 PM  [focus] 1
+INFO 8/13/2019, 9:33:27 PM  [blur] 1
+INFO 8/13/2019, 9:33:29 PM  [focus] 1
+INFO 8/13/2019, 9:33:53 PM  [blur] 1
+INFO 8/13/2019, 9:34:02 PM  [focus] 1
+INFO 8/13/2019, 9:35:01 PM  [blur] 1
+INFO 8/13/2019, 9:35:05 PM  [focus] 1
+INFO 8/13/2019, 9:35:06 PM  [blur] 1
+INFO 8/13/2019, 9:35:08 PM  [focus] 1
+INFO 8/13/2019, 9:35:20 PM  [blur] 1
+INFO 8/13/2019, 9:35:22 PM  [focus] 1
+INFO 8/13/2019, 9:35:51 PM  [blur] 1
+INFO 8/13/2019, 9:35:58 PM  [focus] 1
+INFO 8/13/2019, 9:36:10 PM  [blur] 1
+INFO 8/13/2019, 9:36:15 PM  [focus] 1
+INFO 8/13/2019, 9:36:16 PM  [blur] 1
+INFO 8/13/2019, 9:36:17 PM  [focus] 1
+INFO 8/13/2019, 9:36:54 PM  [blur] 1
+INFO 8/13/2019, 9:36:57 PM  [focus] 1
+INFO 8/13/2019, 9:37:06 PM  [blur] 1
+INFO 8/13/2019, 9:37:09 PM  [focus] 1
+INFO 8/13/2019, 9:37:18 PM  [blur] 1
+INFO 8/13/2019, 9:37:21 PM  [focus] 1
+INFO 8/13/2019, 9:37:30 PM  [blur] 1
+INFO 8/13/2019, 9:37:35 PM  [focus] 1
+INFO 8/13/2019, 9:40:09 PM  [blur] 1
+INFO 8/13/2019, 9:40:31 PM  [focus] 1
+INFO 8/13/2019, 9:41:04 PM  [blur] 1
+INFO 8/13/2019, 9:41:07 PM  [focus] 1
+INFO 8/13/2019, 9:41:09 PM  ------------------quit------------------
+DEBUG 8/14/2019, 12:26:17 PM  initSentry
+DEBUG 8/14/2019, 12:26:18 PM  initCountly
+INFO 8/14/2019, 12:26:19 PM  ------------------start------------------
+INFO 8/14/2019, 12:26:19 PM  typora version: 0.9.72
+DEBUG 8/14/2019, 12:26:19 PM  [ '/usr/share/typora/Typora' ]
+DEBUG 8/14/2019, 12:26:19 PM  /usr/share/typora/resources/app/locales/Base.lproj/Menu.json
+ERROR 8/14/2019, 12:26:20 PM  (node:20937) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 8/14/2019, 12:26:20 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'solarized-dark.css',
+  'solarized.css',
+  'whitey.css' ]
+DEBUG 8/14/2019, 12:26:20 PM  app.openFile
+INFO 8/14/2019, 12:26:23 PM  [focus] 1
+INFO 8/14/2019, 12:26:44 PM  [blur] 1
+INFO 8/14/2019, 12:26:50 PM  [focus] 1
+INFO 8/14/2019, 12:26:50 PM  [blur] 1
+INFO 8/14/2019, 12:26:50 PM  [focus] 1
+INFO 8/14/2019, 12:26:50 PM  addRecentDocument
+INFO 8/14/2019, 12:27:06 PM  [blur] 1
+INFO 8/14/2019, 12:27:15 PM  [focus] 1
+INFO 8/14/2019, 12:27:20 PM  [blur] 1
+INFO 8/14/2019, 12:27:23 PM  [focus] 1
+INFO 8/14/2019, 12:27:32 PM  [blur] 1
+INFO 8/14/2019, 12:27:34 PM  [focus] 1
+INFO 8/14/2019, 12:28:03 PM  [blur] 1
+INFO 8/14/2019, 12:28:43 PM  [focus] 1
+INFO 8/14/2019, 12:29:03 PM  [blur] 1
+INFO 8/14/2019, 12:29:07 PM  [focus] 1
+INFO 8/14/2019, 12:29:11 PM  [blur] 1
+INFO 8/14/2019, 12:29:16 PM  [focus] 1
+INFO 8/14/2019, 12:29:27 PM  [blur] 1
+INFO 8/14/2019, 12:29:29 PM  [focus] 1
+INFO 8/14/2019, 12:29:38 PM  [blur] 1
+INFO 8/14/2019, 12:29:41 PM  [focus] 1
+INFO 8/14/2019, 12:29:59 PM  [blur] 1
+INFO 8/14/2019, 12:30:02 PM  [focus] 1
+INFO 8/14/2019, 12:30:08 PM  [blur] 1
+INFO 8/14/2019, 12:30:19 PM  [focus] 1
+INFO 8/14/2019, 12:30:40 PM  [blur] 1
+INFO 8/14/2019, 12:31:38 PM  [focus] 1
+INFO 8/14/2019, 12:32:03 PM  [blur] 1
+INFO 8/14/2019, 12:32:08 PM  [focus] 1
+INFO 8/14/2019, 12:32:21 PM  [blur] 1
+INFO 8/14/2019, 12:32:23 PM  [focus] 1
+INFO 8/14/2019, 12:32:39 PM  [blur] 1
+INFO 8/14/2019, 12:32:41 PM  [focus] 1
+INFO 8/14/2019, 12:32:47 PM  [blur] 1
+INFO 8/14/2019, 12:38:58 PM  [focus] 1
+INFO 8/14/2019, 12:44:26 PM  [blur] 1
+INFO 8/14/2019, 12:46:45 PM  [focus] 1
+INFO 8/14/2019, 12:46:51 PM  [blur] 1
+INFO 8/14/2019, 12:47:10 PM  [focus] 1
+INFO 8/14/2019, 12:47:47 PM  [blur] 1
+INFO 8/14/2019, 12:48:04 PM  [focus] 1
+INFO 8/14/2019, 12:48:21 PM  [blur] 1
+INFO 8/14/2019, 12:48:26 PM  [focus] 1
+INFO 8/14/2019, 12:48:43 PM  [blur] 1
+INFO 8/14/2019, 12:48:51 PM  [focus] 1
+INFO 8/14/2019, 12:49:23 PM  [blur] 1
+INFO 8/14/2019, 12:49:33 PM  [focus] 1
+INFO 8/14/2019, 12:49:41 PM  [blur] 1
+INFO 8/14/2019, 12:49:43 PM  [focus] 1
+INFO 8/14/2019, 12:49:58 PM  [blur] 1
+INFO 8/14/2019, 12:50:42 PM  [focus] 1
+INFO 8/14/2019, 12:51:09 PM  [blur] 1
+INFO 8/14/2019, 12:51:14 PM  [focus] 1
+INFO 8/14/2019, 12:51:24 PM  [blur] 1
+INFO 8/14/2019, 12:51:31 PM  [focus] 1
+INFO 8/14/2019, 12:51:32 PM  [blur] 1
+INFO 8/14/2019, 12:51:33 PM  [focus] 1
+INFO 8/14/2019, 12:52:14 PM  [blur] 1
+INFO 8/14/2019, 12:53:41 PM  [focus] 1
+INFO 8/14/2019, 12:53:48 PM  [blur] 1
+INFO 8/14/2019, 12:54:00 PM  [focus] 1
+INFO 8/14/2019, 12:55:04 PM  [blur] 1
+INFO 8/14/2019, 12:55:31 PM  [focus] 1
+INFO 8/14/2019, 12:55:35 PM  [blur] 1
+INFO 8/14/2019, 12:55:39 PM  [focus] 1
+INFO 8/14/2019, 12:56:06 PM  [blur] 1
+INFO 8/14/2019, 12:56:19 PM  [focus] 1
+INFO 8/14/2019, 12:58:03 PM  [blur] 1
+INFO 8/14/2019, 12:58:06 PM  [focus] 1
+INFO 8/14/2019, 12:59:00 PM  [blur] 1
+INFO 8/14/2019, 12:59:07 PM  [focus] 1
+INFO 8/14/2019, 12:59:08 PM  [blur] 1
+INFO 8/14/2019, 12:59:09 PM  [focus] 1
+INFO 8/14/2019, 12:59:36 PM  [blur] 1
+INFO 8/14/2019, 12:59:41 PM  [focus] 1
+INFO 8/14/2019, 1:00:31 PM  [blur] 1
+INFO 8/14/2019, 1:00:34 PM  [focus] 1
+INFO 8/14/2019, 1:01:03 PM  [blur] 1
+INFO 8/14/2019, 1:01:06 PM  [focus] 1
+INFO 8/14/2019, 1:01:19 PM  [blur] 1
+INFO 8/14/2019, 1:01:21 PM  [focus] 1
+INFO 8/14/2019, 1:01:29 PM  [blur] 1
+INFO 8/14/2019, 1:01:33 PM  [focus] 1
+INFO 8/14/2019, 1:01:47 PM  [blur] 1
+INFO 8/14/2019, 1:01:48 PM  [focus] 1
+INFO 8/14/2019, 1:01:58 PM  [blur] 1
+INFO 8/14/2019, 1:02:46 PM  [focus] 1
+INFO 8/14/2019, 1:02:48 PM  [blur] 1
+INFO 8/14/2019, 1:03:15 PM  [focus] 1
+INFO 8/14/2019, 1:03:41 PM  [blur] 1
+INFO 8/14/2019, 1:04:44 PM  [focus] 1
+INFO 8/14/2019, 1:04:45 PM  [blur] 1
+INFO 8/14/2019, 1:04:51 PM  [focus] 1
+INFO 8/14/2019, 1:04:52 PM  [blur] 1
+INFO 8/14/2019, 1:05:48 PM  [focus] 1
+INFO 8/14/2019, 1:06:40 PM  [blur] 1
+INFO 8/14/2019, 1:06:46 PM  [focus] 1
+INFO 8/14/2019, 1:07:13 PM  [blur] 1
+INFO 8/14/2019, 1:07:15 PM  [focus] 1
+INFO 8/14/2019, 1:07:44 PM  [blur] 1
+INFO 8/14/2019, 1:07:56 PM  [focus] 1
+INFO 8/14/2019, 1:08:03 PM  [blur] 1
+INFO 8/14/2019, 1:09:01 PM  [focus] 1
+INFO 8/14/2019, 1:09:41 PM  [blur] 1
+INFO 8/14/2019, 1:09:58 PM  [focus] 1
+INFO 8/14/2019, 1:09:58 PM  [blur] 1
+INFO 8/14/2019, 1:10:32 PM  [focus] 1
+INFO 8/14/2019, 1:10:37 PM  [blur] 1
+INFO 8/14/2019, 1:10:41 PM  [focus] 1
+INFO 8/14/2019, 1:10:47 PM  [blur] 1
+INFO 8/14/2019, 1:10:49 PM  [focus] 1
+INFO 8/14/2019, 1:11:12 PM  [blur] 1
+INFO 8/14/2019, 1:11:14 PM  [focus] 1
+INFO 8/14/2019, 1:12:22 PM  [blur] 1
+INFO 8/14/2019, 1:12:58 PM  [focus] 1
+INFO 8/14/2019, 1:13:03 PM  [blur] 1
+INFO 8/14/2019, 1:13:09 PM  [focus] 1
+INFO 8/14/2019, 1:13:13 PM  [blur] 1
+INFO 8/14/2019, 1:13:15 PM  [focus] 1
+INFO 8/14/2019, 1:13:35 PM  [blur] 1
+INFO 8/14/2019, 1:13:47 PM  [focus] 1
+INFO 8/14/2019, 1:14:08 PM  [blur] 1
+INFO 8/14/2019, 1:15:16 PM  [focus] 1
+INFO 8/14/2019, 1:15:22 PM  [blur] 1
+INFO 8/14/2019, 1:15:31 PM  [focus] 1
+INFO 8/14/2019, 1:17:34 PM  [blur] 1
+INFO 8/14/2019, 1:19:43 PM  [focus] 1
+INFO 8/14/2019, 1:20:24 PM  [blur] 1
+INFO 8/14/2019, 1:20:35 PM  [focus] 1
+INFO 8/14/2019, 1:20:48 PM  [blur] 1
+INFO 8/14/2019, 1:20:59 PM  [focus] 1
+INFO 8/14/2019, 1:21:56 PM  [blur] 1
+INFO 8/14/2019, 1:22:18 PM  [focus] 1
+INFO 8/14/2019, 1:22:37 PM  [blur] 1
+INFO 8/14/2019, 1:22:44 PM  [focus] 1
+INFO 8/14/2019, 1:22:50 PM  [blur] 1
+INFO 8/14/2019, 1:22:55 PM  [focus] 1
+INFO 8/14/2019, 1:24:07 PM  [blur] 1
+INFO 8/14/2019, 1:24:19 PM  [focus] 1
+INFO 8/14/2019, 1:24:51 PM  [blur] 1
+INFO 8/14/2019, 1:24:54 PM  [focus] 1
+INFO 8/14/2019, 1:27:10 PM  ------------------quit------------------
+DEBUG 8/14/2019, 8:50:12 PM  initSentry
+DEBUG 8/14/2019, 8:50:12 PM  initCountly
+INFO 8/14/2019, 8:50:13 PM  ------------------start------------------
+INFO 8/14/2019, 8:50:13 PM  typora version: 0.9.72
+DEBUG 8/14/2019, 8:50:13 PM  [ '/usr/share/typora/Typora' ]
+DEBUG 8/14/2019, 8:50:13 PM  /usr/share/typora/resources/app/locales/Base.lproj/Menu.json
+ERROR 8/14/2019, 8:50:14 PM  (node:31739) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+DEBUG 8/14/2019, 8:50:14 PM  [ 'github.css',
+  'newsprint.css',
+  'night.css',
+  'pixyll.css',
+  'solarized-dark.css',
+  'solarized.css',
+  'whitey.css' ]
+DEBUG 8/14/2019, 8:50:14 PM  app.openFile
+INFO 8/14/2019, 8:50:15 PM  [focus] 1
+INFO 8/14/2019, 8:51:21 PM  [blur] 1
+INFO 8/14/2019, 8:51:28 PM  [focus] 1
+INFO 8/14/2019, 8:51:28 PM  [blur] 1
+INFO 8/14/2019, 8:51:28 PM  [focus] 1
+INFO 8/14/2019, 8:51:28 PM  addRecentDocument
+INFO 8/14/2019, 8:53:15 PM  [blur] 1
+INFO 8/14/2019, 8:53:16 PM  [focus] 1
+INFO 8/14/2019, 8:53:55 PM  [blur] 1
+INFO 8/14/2019, 8:53:57 PM  [focus] 1
+INFO 8/14/2019, 8:54:08 PM  [blur] 1
+INFO 8/14/2019, 8:54:09 PM  [focus] 1
+INFO 8/14/2019, 8:54:24 PM  [blur] 1
+INFO 8/14/2019, 8:54:26 PM  [focus] 1
+INFO 8/14/2019, 8:54:31 PM  [blur] 1
+INFO 8/14/2019, 8:54:32 PM  [focus] 1
+INFO 8/14/2019, 8:55:12 PM  [blur] 1
+INFO 8/14/2019, 8:55:14 PM  [focus] 1
+INFO 8/14/2019, 8:55:18 PM  [blur] 1
+INFO 8/14/2019, 8:55:20 PM  [focus] 1
+INFO 8/14/2019, 8:55:25 PM  [blur] 1
+INFO 8/14/2019, 8:55:26 PM  [focus] 1
+INFO 8/14/2019, 8:55:39 PM  [blur] 1
+INFO 8/14/2019, 8:55:41 PM  [focus] 1
+INFO 8/14/2019, 8:58:16 PM  [blur] 1
+INFO 8/14/2019, 8:58:17 PM  [focus] 1
+INFO 8/14/2019, 8:58:17 PM  [blur] 1
+INFO 8/14/2019, 8:58:19 PM  [focus] 1
+INFO 8/14/2019, 8:58:19 PM  [blur] 1
+INFO 8/14/2019, 8:58:19 PM  [focus] 1
+INFO 8/14/2019, 8:58:20 PM  [blur] 1
+INFO 8/14/2019, 8:58:21 PM  [focus] 1
+INFO 8/14/2019, 9:00:24 PM  [blur] 1
+INFO 8/14/2019, 9:01:23 PM  [focus] 1
+INFO 8/14/2019, 9:01:46 PM  [blur] 1
+INFO 8/14/2019, 9:01:52 PM  [focus] 1
+INFO 8/14/2019, 9:02:08 PM  [blur] 1
+INFO 8/14/2019, 9:02:29 PM  [focus] 1
+INFO 8/14/2019, 9:02:30 PM  [blur] 1
+INFO 8/14/2019, 9:07:10 PM  [focus] 1
+INFO 8/14/2019, 9:07:11 PM  [blur] 1
+INFO 8/14/2019, 9:10:08 PM  [focus] 1
+INFO 8/14/2019, 9:10:29 PM  [blur] 1
+INFO 8/14/2019, 9:10:31 PM  [focus] 1
+INFO 8/14/2019, 9:10:32 PM  [blur] 1
+INFO 8/14/2019, 9:10:34 PM  [focus] 1
+INFO 8/14/2019, 9:11:18 PM  [blur] 1
+INFO 8/14/2019, 9:11:38 PM  [focus] 1
+INFO 8/14/2019, 9:12:02 PM  [blur] 1
+INFO 8/14/2019, 9:12:57 PM  [focus] 1
+INFO 8/14/2019, 9:13:12 PM  [blur] 1
+INFO 8/14/2019, 9:13:33 PM  [focus] 1
+INFO 8/14/2019, 9:13:51 PM  [blur] 1
+INFO 8/14/2019, 9:22:18 PM  [focus] 1
+INFO 8/14/2019, 9:23:23 PM  [blur] 1
+INFO 8/14/2019, 9:23:23 PM  [focus] 1
+INFO 8/14/2019, 9:23:24 PM  [blur] 1
+INFO 8/14/2019, 9:24:58 PM  [focus] 1
+INFO 8/14/2019, 9:26:00 PM  [blur] 1
+INFO 8/14/2019, 9:26:06 PM  [focus] 1
+INFO 8/14/2019, 9:26:29 PM  [blur] 1
+INFO 8/14/2019, 9:26:32 PM  [focus] 1
+INFO 8/14/2019, 9:26:46 PM  [blur] 1
+INFO 8/14/2019, 9:26:47 PM  [focus] 1
+INFO 8/14/2019, 9:26:54 PM  [blur] 1
+INFO 8/14/2019, 9:26:56 PM  [focus] 1
+INFO 8/14/2019, 9:27:35 PM  [blur] 1
+INFO 8/14/2019, 9:27:35 PM  [focus] 1
+INFO 8/14/2019, 9:27:36 PM  [blur] 1
+INFO 8/14/2019, 9:28:31 PM  [focus] 1
+INFO 8/14/2019, 9:29:26 PM  [blur] 1
+INFO 8/14/2019, 9:30:49 PM  [focus] 1
+INFO 8/14/2019, 9:31:05 PM  [blur] 1
+INFO 8/14/2019, 9:31:18 PM  [focus] 1
+INFO 8/14/2019, 9:31:25 PM  [blur] 1
+INFO 8/14/2019, 9:31:31 PM  [focus] 1
+INFO 8/14/2019, 9:35:11 PM  [blur] 1
+INFO 8/14/2019, 9:35:12 PM  [focus] 1
+INFO 8/14/2019, 9:35:13 PM  [blur] 1
+INFO 8/14/2019, 9:35:27 PM  [focus] 1
+INFO 8/14/2019, 9:36:02 PM  [blur] 1
+INFO 8/14/2019, 9:36:20 PM  [focus] 1
+INFO 8/14/2019, 9:36:27 PM  [blur] 1
+INFO 8/14/2019, 9:37:02 PM  [focus] 1
+INFO 8/14/2019, 9:37:07 PM  [blur] 1
+INFO 8/14/2019, 9:39:43 PM  [focus] 1
+INFO 8/14/2019, 9:39:45 PM  [blur] 1
+INFO 8/14/2019, 9:40:03 PM  [focus] 1
+INFO 8/14/2019, 9:40:03 PM  [blur] 1
+INFO 8/14/2019, 9:40:03 PM  [focus] 1
+INFO 8/14/2019, 9:40:05 PM  [blur] 1
+INFO 8/14/2019, 9:40:30 PM  [focus] 1
+INFO 8/14/2019, 9:40:32 PM  [blur] 1
+INFO 8/14/2019, 9:43:31 PM  [focus] 1
+INFO 8/14/2019, 9:43:32 PM  [blur] 1
+INFO 8/14/2019, 9:44:14 PM  [focus] 1
+INFO 8/14/2019, 9:44:15 PM  [blur] 1
+INFO 8/14/2019, 9:44:51 PM  [focus] 1
+INFO 8/14/2019, 9:44:52 PM  [blur] 1
+INFO 8/14/2019, 9:44:55 PM  [focus] 1
+INFO 8/14/2019, 9:45:51 PM  [blur] 1
+INFO 8/14/2019, 9:46:15 PM  [focus] 1
+INFO 8/14/2019, 9:46:51 PM  [blur] 1
+INFO 8/14/2019, 9:47:03 PM  [focus] 1
+INFO 8/14/2019, 9:47:06 PM  [blur] 1
+INFO 8/14/2019, 9:47:10 PM  [focus] 1
+INFO 8/14/2019, 9:47:30 PM  [blur] 1
+INFO 8/14/2019, 9:47:32 PM  [focus] 1
+INFO 8/14/2019, 9:47:44 PM  [blur] 1
+INFO 8/14/2019, 9:47:45 PM  [focus] 1
+INFO 8/14/2019, 9:48:11 PM  [blur] 1
+INFO 8/14/2019, 9:48:27 PM  [focus] 1
+INFO 8/14/2019, 9:48:40 PM  [blur] 1
+INFO 8/14/2019, 9:48:49 PM  [focus] 1
+INFO 8/14/2019, 9:48:54 PM  ------------------quit------------------

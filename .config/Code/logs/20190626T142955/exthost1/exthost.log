@@ -1,0 +1,16 @@
+[2019-06-26 14:30:08.870] [exthost] [info] extension host started
+[2019-06-26 14:30:08.965] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"activationEvent":"*"}
+[2019-06-26 14:30:08.966] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2019-06-26 14:30:09.015] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2019-06-26 14:30:09.016] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/dist/extension
+[2019-06-26 14:30:09.099] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2019-06-26 14:30:09.099] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/dist/main
+[2019-06-26 14:30:09.438] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2019-06-26 14:30:09.438] [exthost] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2019-06-26 14:30:09.483] [exthost] [info] ExtensionService#_doActivateExtension gorbenko.adonis-js-autocomplete {"startup":true,"activationEvent":"*"}
+[2019-06-26 14:30:09.483] [exthost] [info] ExtensionService#loadCommonJSModule /home/chandra/.vscode/extensions/gorbenko.adonis-js-autocomplete-0.0.1/src/extension
+[2019-06-26 14:30:09.531] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"activationEvent":"*"}
+[2019-06-26 14:30:09.531] [exthost] [info] ExtensionService#loadCommonJSModule /home/chandra/.vscode/extensions/pkief.material-icon-theme-3.8.0/dist/extension
+[2019-06-26 14:30:09.600] [exthost] [info] ExtensionService#_doActivateExtension yokoe.vscode-postfix-go {"startup":true,"activationEvent":"*"}
+[2019-06-26 14:30:09.601] [exthost] [info] ExtensionService#loadCommonJSModule /home/chandra/.vscode/extensions/yokoe.vscode-postfix-go-0.0.12/out/src/extension
+[2019-06-26 14:30:09.797] [exthost] [info] eager extensions activated

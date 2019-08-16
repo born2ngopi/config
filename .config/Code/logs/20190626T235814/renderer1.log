@@ -1,0 +1,3 @@
+[2019-06-27 00:44:10.627] [renderer1] [warning] UNRESPONSIVE extension host, 'vscode.merge-conflict' took 83% of 1241.502ms, saved PROFILE here: '/tmp/exthost-c292b0.cpuprofile' [{"id":"gc","total":1495,"percentage":0},{"id":"ms-vscode.cpptools","total":16203,"percentage":1},{"id":"program","total":185813,"percentage":15},{"id":"self","total":4138,"percentage":0},{"id":"vscode.merge-conflict","total":1025516,"percentage":83}]
+[2019-06-27 00:46:10.709] [renderer1] [warning] Aborted onWillSaveTextDocument-event after 1750ms
+[2019-06-27 00:47:16.760] [renderer1] [warning] {}

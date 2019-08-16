@@ -1,0 +1,97 @@
+[
+	{
+		"name": "TEXT",
+		"value": "Preparing request to http://localhost:8080/",
+		"timestamp": 1562223471165
+	},
+	{
+		"name": "TEXT",
+		"value": "Using libcurl/7.61.1 OpenSSL/1.1.0h zlib/1.2.11 nghttp2/1.29.0",
+		"timestamp": 1562223471165
+	},
+	{
+		"name": "TEXT",
+		"value": "Current time is 2019-07-04T06:57:51.165Z",
+		"timestamp": 1562223471219
+	},
+	{
+		"name": "TEXT",
+		"value": "Disable timeout",
+		"timestamp": 1562223471219
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable automatic URL encoding",
+		"timestamp": 1562223471220
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable SSL validation",
+		"timestamp": 1562223471220
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable cookie sending with jar of 0 cookies",
+		"timestamp": 1562223471240
+	},
+	{
+		"name": "TEXT",
+		"value": "  Trying 127.0.0.1...\n",
+		"timestamp": 1562223471281
+	},
+	{
+		"name": "TEXT",
+		"value": "TCP_NODELAY set\n",
+		"timestamp": 1562223471282
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to localhost (127.0.0.1) port 8080 (#0)\n",
+		"timestamp": 1562223471282
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "POST / HTTP/1.1\r\nHost: localhost:8080\r\nUser-Agent: insomnia/6.5.4\r\nAccept: */*\r\nContent-Length: 0\r\n\r\n",
+		"timestamp": 1562223471282
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "HTTP/1.1 404 Not Found\r\n",
+		"timestamp": 1562223471283
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Type: application/json; charset=UTF-8\r\n",
+		"timestamp": 1562223471283
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Date: Thu, 04 Jul 2019 06:57:51 GMT\r\n",
+		"timestamp": 1562223471283
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Length: 24\r\n",
+		"timestamp": 1562223471283
+	},
+	{
+		"name": "TEXT",
+		"value": "HTTP error before end of send, stop sending\n",
+		"timestamp": 1562223471283
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "\r\n",
+		"timestamp": 1562223471283
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 24 B chunk",
+		"timestamp": 1562223471283
+	},
+	{
+		"name": "TEXT",
+		"value": "Closing connection 0\n",
+		"timestamp": 1562223471286
+	}
+]

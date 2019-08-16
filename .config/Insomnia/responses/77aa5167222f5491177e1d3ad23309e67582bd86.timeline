@@ -1,0 +1,112 @@
+[
+	{
+		"name": "TEXT",
+		"value": "Preparing request to http://localhost:8080/dogs",
+		"timestamp": 1562224353696
+	},
+	{
+		"name": "TEXT",
+		"value": "Using libcurl/7.61.1 OpenSSL/1.1.0h zlib/1.2.11 nghttp2/1.29.0",
+		"timestamp": 1562224353696
+	},
+	{
+		"name": "TEXT",
+		"value": "Current time is 2019-07-04T07:12:33.696Z",
+		"timestamp": 1562224353729
+	},
+	{
+		"name": "TEXT",
+		"value": "Disable timeout",
+		"timestamp": 1562224353729
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable automatic URL encoding",
+		"timestamp": 1562224353729
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable SSL validation",
+		"timestamp": 1562224353729
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable cookie sending with jar of 0 cookies",
+		"timestamp": 1562224353760
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection 2 seems to be dead!\n",
+		"timestamp": 1562224353778
+	},
+	{
+		"name": "TEXT",
+		"value": "Closing connection 2\n",
+		"timestamp": 1562224353778
+	},
+	{
+		"name": "TEXT",
+		"value": "  Trying 127.0.0.1...\n",
+		"timestamp": 1562224353832
+	},
+	{
+		"name": "TEXT",
+		"value": "TCP_NODELAY set\n",
+		"timestamp": 1562224353832
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to localhost (127.0.0.1) port 8080 (#3)\n",
+		"timestamp": 1562224353832
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "POST /dogs HTTP/1.1\r\nHost: localhost:8080\r\nUser-Agent: insomnia/6.5.4\r\nContent-Type: application/json\r\nAccept: */*\r\nContent-Length: 43\r\n\r\n",
+		"timestamp": 1562224353867
+	},
+	{
+		"name": "DATA_OUT",
+		"value": "{\n\t\"name\" : \"gug gug\",\n\t\"Type\" : \"pitbul\"\n}",
+		"timestamp": 1562224353867
+	},
+	{
+		"name": "TEXT",
+		"value": "upload completely sent off: 43 out of 43 bytes\n",
+		"timestamp": 1562224353867
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "HTTP/1.1 200 OK\r\n",
+		"timestamp": 1562224353867
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Type: text/plain; charset=UTF-8\r\n",
+		"timestamp": 1562224353867
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Date: Thu, 04 Jul 2019 07:12:33 GMT\r\n",
+		"timestamp": 1562224353867
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Length: 15\r\n",
+		"timestamp": 1562224353867
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "\r\n",
+		"timestamp": 1562224353867
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 15 B chunk",
+		"timestamp": 1562224353867
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection #3 to host localhost left intact\n",
+		"timestamp": 1562224353867
+	}
+]

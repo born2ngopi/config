@@ -1,0 +1,102 @@
+[
+	{
+		"name": "TEXT",
+		"value": "Preparing request to http://127.0.0.1:8080/?username=chandra&password=chandra",
+		"timestamp": 1561645001177
+	},
+	{
+		"name": "TEXT",
+		"value": "Using libcurl/7.61.1 OpenSSL/1.1.0h zlib/1.2.11 nghttp2/1.29.0",
+		"timestamp": 1561645001177
+	},
+	{
+		"name": "TEXT",
+		"value": "Current time is 2019-06-27T14:16:41.177Z",
+		"timestamp": 1561645001177
+	},
+	{
+		"name": "TEXT",
+		"value": "Disable timeout",
+		"timestamp": 1561645001177
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable automatic URL encoding",
+		"timestamp": 1561645001177
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable SSL validation",
+		"timestamp": 1561645001177
+	},
+	{
+		"name": "TEXT",
+		"value": "Enable cookie sending with jar of 1 cookie",
+		"timestamp": 1561645001187
+	},
+	{
+		"name": "TEXT",
+		"value": "Hostname 127.0.0.1 was found in DNS cache\n",
+		"timestamp": 1561645001201
+	},
+	{
+		"name": "TEXT",
+		"value": "  Trying 127.0.0.1...\n",
+		"timestamp": 1561645001202
+	},
+	{
+		"name": "TEXT",
+		"value": "TCP_NODELAY set\n",
+		"timestamp": 1561645001202
+	},
+	{
+		"name": "TEXT",
+		"value": "Connected to 127.0.0.1 (127.0.0.1) port 8080 (#6)\n",
+		"timestamp": 1561645001202
+	},
+	{
+		"name": "HEADER_OUT",
+		"value": "GET /?username=chandra&password=chandra HTTP/1.1\r\nHost: 127.0.0.1:8080\r\nUser-Agent: insomnia/6.5.4\r\nusername: chandra\r\npassword: chandra\r\nAccept: */*\r\n\r\n",
+		"timestamp": 1561645001202
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "HTTP/1.1 200 OK\r\n",
+		"timestamp": 1561645001207
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Type: application/json; charset=utf-8\r\n",
+		"timestamp": 1561645001207
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Content-Length: 34\r\n",
+		"timestamp": 1561645001207
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Date: Thu, 27 Jun 2019 14:16:41 GMT\r\n",
+		"timestamp": 1561645001207
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "Connection: keep-alive\r\n",
+		"timestamp": 1561645001207
+	},
+	{
+		"name": "HEADER_IN",
+		"value": "\r\n",
+		"timestamp": 1561645001207
+	},
+	{
+		"name": "TEXT",
+		"value": "Received 34 B chunk",
+		"timestamp": 1561645001207
+	},
+	{
+		"name": "TEXT",
+		"value": "Connection #6 to host 127.0.0.1 left intact\n",
+		"timestamp": 1561645001207
+	}
+]
